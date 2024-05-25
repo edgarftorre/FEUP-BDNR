@@ -1,0 +1,789 @@
+diseaseLabel,symptomLabel
+bubonic plague,chills
+bubonic plague,prostration
+lactose intolerance,diarrhea
+lactose intolerance,flatulence
+lactose intolerance,abdominal pain
+lactose intolerance,borborygmus
+lactose intolerance,bloating
+chikungunya,headache
+chikungunya,fatigue
+chikungunya,fever
+chikungunya,conjunctivitis
+chikungunya,nausea
+chikungunya,myalgia
+chikungunya,rash
+chikungunya,arthralgia
+chikungunya,neurological disorder
+cystitis,inflammation
+foodborne illness,headache
+foodborne illness,diarrhea
+foodborne illness,poisoning
+foodborne illness,vomiting
+foodborne illness,abdominal pain
+kuru,headache
+kuru,obesity
+kuru,major depressive disorder
+kuru,dementia
+kuru,strabismus
+kuru,tremor
+kuru,muscle weakness
+kuru,pressure ulcer
+kuru,arthralgia
+kuru,diplopia
+kuru,speech disorder
+kuru,mood swing
+kuru,dizziness
+uveitis,inflammation
+achlorhydria,diarrhea
+mercury poisoning,headache
+mercury poisoning,fatigue
+mercury poisoning,irritability
+mercury poisoning,cough
+mercury poisoning,diarrhea
+mercury poisoning,arterial hypertension
+mercury poisoning,irritation
+mercury poisoning,bronchitis
+mercury poisoning,dyspnea
+mercury poisoning,tachycardia
+mercury poisoning,tremor
+mercury poisoning,anorexia
+mercury poisoning,proteinuria
+mercury poisoning,dysphagia
+mercury poisoning,asthenia
+mercury poisoning,chest pain
+mercury poisoning,weight loss
+mercury poisoning,chronic renal insufficiency
+mercury poisoning,respiratory failure
+mercury poisoning,contact dermatitis
+mercury poisoning,pulmonary edema
+mercury poisoning,stomatitis
+mercury poisoning,kidney disease
+mercury poisoning,irritant dermatitis
+mercury poisoning,insomnia
+mercury poisoning,visual disturbance
+mercury poisoning,abdominal cramps
+mercury poisoning,saliva secretion
+mercury poisoning,chemical pneumonitis
+mercury poisoning,dysgeusia
+mercury poisoning,eye irritation
+mercury poisoning,exanthem
+mercury poisoning,Gastrointestinal distress
+mercury poisoning,indecision
+Alström syndrome,blindness
+decompression sickness,headache
+decompression sickness,fatigue
+decompression sickness,amnesia
+decompression sickness,deafness
+decompression sickness,pain
+decompression sickness,paralysis
+decompression sickness,vomiting
+decompression sickness,nausea
+decompression sickness,dyspnea
+decompression sickness,itch
+decompression sickness,mental confusion
+decompression sickness,arthralgia
+decompression sickness,paresthesia
+decompression sickness,convulsion
+decompression sickness,hyperesthesia
+decompression sickness,visual disturbance
+decompression sickness,impairment of continence
+decompression sickness,godet sign
+decompression sickness,formication
+decompression sickness,mood swing
+decompression sickness,vertigo
+decompression sickness,dizziness
+decompression sickness,unconsciousness
+amentia,amnesia
+amentia,hallucination
+amentia,delusion
+amentia,disorientation
+amentia,perplexity
+rabies,headache
+rabies,irritability
+rabies,fear
+rabies,pain
+rabies,paralysis
+rabies,vomiting
+rabies,hallucination
+rabies,cardiac arrest
+rabies,photophobia
+rabies,hypersalivation
+rabies,paresthesia
+rabies,mydriasis
+rabies,hyperactivity
+rabies,insomnia
+rabies,chills
+rabies,phonophobia
+rabies,respiratory arrest
+rabies,increase
+rabies,hydrophobia (sign)
+meningitis,headache
+meningitis,fever
+meningitis,vomiting
+meningitis,nausea
+meningitis,photophobia
+meningitis,meningeal syndrome
+dyslexia,reading disorder and écrites disorder
+gout,swelling
+gout,arthralgia
+gout,erythema
+gout,joint effusion
+migraine,headache
+migraine,vomiting
+migraine,nausea
+migraine,burping
+migraine,photophobia
+Ancylostoma duodenale ancylostomiasis,fatigue
+Ancylostoma duodenale ancylostomiasis,abdominal pain
+Ancylostoma duodenale ancylostomiasis,hypochromic anemia
+leptospirosis,headache
+leptospirosis,fever
+leptospirosis,poisoning
+leptospirosis,myocarditis
+leptospirosis,myalgia
+leptospirosis,kidney failure
+leptospirosis,rash
+leptospirosis,disseminated intravascular coagulation
+leptospirosis,chills
+delirium,psychosis
+delirium,sleep disorder
+delirium,thought disorder
+delirium,speech disorder
+delirium,disorientation
+delirium,distraction
+delirium,memory disorder
+delirium,emotional lability
+cluster headache,headache
+cluster headache,irritability
+cluster headache,photophobia
+cluster headache,psychomotor agitation
+cluster headache,ptosis
+cluster headache,runny nose
+cluster headache,red eye
+cluster headache,nasal congestion
+cluster headache,sweating
+cluster headache,tear secretion
+scabies,fever
+scabies,itch
+scabies,rash
+Bálint's syndrome,simultanagnosia
+Bálint's syndrome,oculomotor apraxia
+Bálint's syndrome,optic ataxia
+sepsis,chills
+sepsis,intermittent fever
+sepsis,remittent fever
+heart disease,arterial hypertension
+heart disease,edema
+heart disease,syncope
+heart disease,angina pectoris
+heart disease,dyspnea
+heart disease,heart arrhythmia
+heart disease,ascites
+heart disease,tachycardia
+heart disease,chest pain
+heart disease,balance disorder
+jet lag,headache
+jet lag,fatigue
+jet lag,irritability
+jet lag,sleep disorder
+dwarfism,short stature
+chronic obstructive pulmonary disease,cough
+chronic obstructive pulmonary disease,dyspnea
+chronic obstructive pulmonary disease,wheeze
+Lyme disease,headache
+Lyme disease,fatigue
+Lyme disease,fever
+Lyme disease,meningitis
+Lyme disease,arthritis
+Lyme disease,myocarditis
+Lyme disease,heart arrhythmia
+Lyme disease,myalgia
+tetany,tetanic contraction
+myelitis,inflammation
+alcoholic liver disease,jaundice
+alcoholic liver disease,nausea
+anticholinergic toxidrome,hyperopia
+anticholinergic toxidrome,tachycardia
+anticholinergic toxidrome,hyperthermia
+anticholinergic toxidrome,oliguria
+anticholinergic toxidrome,mydriasis
+anticholinergic toxidrome,xerostomia
+anticholinergic toxidrome,xeroderma
+anticholinergic toxidrome,flushing
+anticholinergic toxidrome,blurred vision
+May–Thurner syndrome,swelling
+May–Thurner syndrome,abnormal skin coloration
+Eagle syndrome,otalgia
+Eagle syndrome,neck pain
+Eagle syndrome,shoulder pain
+argyria,abnormal skin coloration
+mallet finger,pain
+mallet finger,bruise
+subarachnoid hemorrhage,vomiting
+subarachnoid hemorrhage,photophobia
+adenovirus infection,diarrhea
+adenovirus infection,rhinitis
+adenovirus infection,conjunctivitis
+adenovirus infection,nausea
+adenovirus infection,low-grade fever
+adenovirus infection,lymphadenopathy
+adenovirus infection,runny nose
+adenovirus infection,xerostomia
+adenovirus infection,sore throat
+adenovirus infection,nasal congestion
+irritable bowel syndrome,diarrhea
+irritable bowel syndrome,constipation
+irritable bowel syndrome,bloating
+irritable bowel syndrome,abdominal discomfort
+ventricular fibrillation,syncope
+ventricular fibrillation,vertigo
+Lyme disease,arthralgia
+Lyme disease,paresthesia
+Lyme disease,hypertrophic cardiomyopathy
+Lyme disease,fasciculation
+Lyme disease,encephalomyelitis
+Lyme disease,neuritis
+Lyme disease,meningoencephalitis
+Lyme disease,erythema chronicum migrans
+Lyme disease,vertigo
+Lyme disease,chronic neuropathic pain
+binge-eating disorder,binge eating
+delirium tremens,agrypnia excitata
+dust mite allergy,cough
+dust mite allergy,sneeze
+dust mite allergy,nasal congestion
+tension headache,headache
+ovine and caprine brucellosis,back pain
+spinal cord injury,paralysis
+spinal cord injury,chronic pain
+spinal cord injury,hypoesthesia
+5-alpha-reductase deficiency,ambiguous genitalia
+coccidioidomycosis,conjunctivitis
+coccidioidomycosis,arthritis
+Peyronie's disease,erectile dysfunction
+diabetic ketoacidosis,vomiting
+diabetic ketoacidosis,abdominal pain
+diabetic ketoacidosis,mental confusion
+diabetic ketoacidosis,polyuria
+proctitis,bleeding
+polymyositis,fever
+polymyositis,myocarditis
+polymyositis,muscle weakness
+hypothermia,hallucination
+Flail chest,Paradoxical breathing
+Crimean-Congo hemorrhagic fever,headache
+Crimean-Congo hemorrhagic fever,fever
+Crimean-Congo hemorrhagic fever,vomiting
+Crimean-Congo hemorrhagic fever,jaundice
+Crimean-Congo hemorrhagic fever,flatulence
+Crimean-Congo hemorrhagic fever,bleeding
+Crimean-Congo hemorrhagic fever,conjunctivitis
+Crimean-Congo hemorrhagic fever,abdominal pain
+Crimean-Congo hemorrhagic fever,nausea
+Crimean-Congo hemorrhagic fever,cyanosis
+Crimean-Congo hemorrhagic fever,tachycardia
+Crimean-Congo hemorrhagic fever,bradycardia
+Crimean-Congo hemorrhagic fever,hypotension
+Crimean-Congo hemorrhagic fever,hematuria
+Crimean-Congo hemorrhagic fever,hematoma
+Crimean-Congo hemorrhagic fever,myalgia
+Crimean-Congo hemorrhagic fever,anuria
+Crimean-Congo hemorrhagic fever,arthralgia
+Crimean-Congo hemorrhagic fever,hyperaemia
+Crimean-Congo hemorrhagic fever,oliguria
+Crimean-Congo hemorrhagic fever,xerostomia
+Crimean-Congo hemorrhagic fever,petechia
+Crimean-Congo hemorrhagic fever,chills
+Crimean-Congo hemorrhagic fever,back pain
+Crimean-Congo hemorrhagic fever,meningism signs
+Hand Yangming large intestine through disease,toothache
+Hand Yangming large intestine through disease,sore throat
+Native American myopathy,ptosis
+intermittent hydrarthrosis,joint effusion
+myoclonic epilepsy,myoclonus
+Newcastle disease,diarrhea
+Newcastle disease,paralysis
+Newcastle disease,conjunctivitis
+chronic rhinitis,bleeding
+allergic asthma,allergic response
+acute diarrhea,diarrhea
+periodic limb movement disorder,periodic limb movement
+pulmonary tuberculosis,pleural effusion
+allescheriosis,abscess
+brain cancer,headache
+brain cancer,pain
+brain cancer,vomiting
+brain cancer,syncope
+brain cancer,tremor
+brain cancer,sciatica
+brain cancer,visual impairment
+brain cancer,convulsion
+brain cancer,chronic pain
+brain cancer,insomnia
+brain cancer,back pain
+brain cancer,vertigo
+brain cancer,dizziness
+cenesthopathic schizophrenia,cenesthopathy
+psoriatic erythroderma,erythroderma
+hyperandrogenism,acne
+hyperandrogenism,amenorrhea
+hyperandrogenism,hirsutism
+catatonic schizophrenia,waxy flexibility
+catatonic schizophrenia,muteness
+catatonic schizophrenia,catalepsy
+catatonic schizophrenia,negativism
+catatonic schizophrenia,Pavlov's symptom
+catatonic schizophrenia,psychological pillow
+catatonic schizophrenia,catatonic excitement
+arteriosclerotic heart disease,fatigue
+arteriosclerotic heart disease,angina pectoris
+arteriosclerotic heart disease,nausea
+arteriosclerotic heart disease,dyspnea
+arteriosclerotic heart disease,neck pain
+arteriosclerotic heart disease,lightheadedness
+normal pressure hydrocephalus,urinary incontinence
+normal pressure hydrocephalus,gait abnormality
+normal pressure hydrocephalus,altered level of consciousness
+polymyalgia rheumatica,chronic secondary musculoskeletal pain
+Pierre Robin syndrome,Glossoptosis
+idiopathic interstitial pneumonia,pneumonia
+Milker's nodule,lymphadenopathy
+Milker's nodule,enlargement of lymph nodes
+hereditary multiple exostoses,exostosis
+Chronic Thromboembolic Pulmonary Hypertension,edema
+Chronic Thromboembolic Pulmonary Hypertension,dyspnea
+cytomegaloviral disease,anemia
+cytomegaloviral disease,blindness
+cytomegaloviral disease,pulmonary fibrosis
+cytomegaloviral disease,fever
+cytomegaloviral disease,cataract
+cytomegaloviral disease,jaundice
+cytomegaloviral disease,tonsillitis
+cytomegaloviral disease,hydrocephalus
+cytomegaloviral disease,Guillain–Barré syndrome
+cytomegaloviral disease,microcephaly
+cytomegaloviral disease,thrombocytopenia
+cytomegaloviral disease,retinitis
+cytomegaloviral disease,rash
+cytomegaloviral disease,congenital disorder
+cytomegaloviral disease,lymphadenopathy
+cytomegaloviral disease,peripheral neuropathy
+cytomegaloviral disease,syndactyly
+cytomegaloviral disease,hepatomegaly
+cytomegaloviral disease,holoprosencephaly
+cytomegaloviral disease,coloboma
+cytomegaloviral disease,parotitis
+cytomegaloviral disease,pharyngitis
+Postanesthetic shivering,shivering
+lateral medullary syndrome,nausea
+intestinal capillariasis,diarrhea
+intestinal capillariasis,edema
+intestinal capillariasis,abdominal pain
+intestinal capillariasis,dehydration
+intestinal capillariasis,weight loss
+subacute bacterial endocarditis,endocarditis
+strongyloidiasis,headache
+strongyloidiasis,cough
+strongyloidiasis,fever
+strongyloidiasis,diarrhea
+strongyloidiasis,meningitis
+strongyloidiasis,conjunctivitis
+strongyloidiasis,bronchitis
+strongyloidiasis,sepsis
+strongyloidiasis,abdominal pain
+strongyloidiasis,myocarditis
+strongyloidiasis,nausea
+strongyloidiasis,urticaria
+strongyloidiasis,itch
+strongyloidiasis,myalgia
+strongyloidiasis,asthenia
+strongyloidiasis,arthralgia
+strongyloidiasis,hepatomegaly
+strongyloidiasis,iritis
+strongyloidiasis,ulcer
+strongyloidiasis,vertigo
+Ollier disease,Enchondroma
+Ollier disease,enchondromatosis
+acute kidney tubular necrosis,necrosis
+cervicitis,inflammation
+pitted keratolysis,fetor
+post-concussion syndrome,headache
+post-concussion syndrome,irritability
+post-concussion syndrome,dizziness
+eye injury,ocular changes
+paranoid psychosis,paranoid delusion
+hypervitaminosis A,left upper quadrant abdominal rigidity
+Excessive daytime sleepiness,somnolence
+Toluene toxicity,headache
+Toluene toxicity,fatigue
+Toluene toxicity,anxiety
+Toluene toxicity,euphoria
+Toluene toxicity,dermatitis
+Toluene toxicity,mental confusion
+Toluene toxicity,paresthesia
+Toluene toxicity,kidney disease
+Toluene toxicity,mydriasis
+Toluene toxicity,hepatotoxicity
+Toluene toxicity,insomnia
+Toluene toxicity,muscle fatigue
+Toluene toxicity,dizziness
+Toluene toxicity,eye irritation
+Toluene toxicity,tear secretion
+Toluene toxicity,nasal irritation
+vitamin B12 deficiency,anemia
+vitamin B12 deficiency,osteoporosis
+vitamin B12 deficiency,cardiomyopathy
+vitamin B12 deficiency,memory loss
+vitamin B12 deficiency,glossitis
+vitamin B12 deficiency,hyperpigmentation
+vitamin B12 deficiency,sensory loss
+vitamin B12 deficiency,cognitive dysfunction
+Still's disease,fever
+Still's disease,inflammation
+Still's disease,myalgia
+Still's disease,rash
+Still's disease,arthralgia
+Still's disease,sore throat
+Still's disease,chronic secondary musculoskeletal pain
+microcytic anemia,microcytosis
+Southeast Asian ovalocytosis,Elliptocyte
+postterm pregnancy,shoulder dystocia
+postterm pregnancy,oligohydramnios
+postterm pregnancy,large for gestational age
+postterm pregnancy,meconium aspiration syndrome
+postterm pregnancy,reduction
+rapadilino syndrome,diarrhea
+Lasthenie de Ferjol syndrome,anemia
+norovirus infection,diarrhea
+norovirus infection,vomiting
+norovirus infection,flatulence
+norovirus infection,abdominal pain
+norovirus infection,nausea
+norovirus infection,dehydration
+norovirus infection,low-grade fever
+Drop attack,falling
+ileitis,diarrhea
+syphilitic meningitis,inflammation
+Zenker's paralysis,steppage gait
+hereditary stomatocytosis,stomatocyte
+xanthomatosis,xanthoma
+Brugia malayi filariasis,fever
+Brugia malayi filariasis,cellulite
+Brugia malayi filariasis,erythema
+Brugia malayi filariasis,lymphangitis
+Brugia malayi filariasis,lymphadenitis
+Brugia malayi filariasis,elephantiasis
+hallucinosis,hallucination
+vitamin K deficiency,diarrhea
+vitamin K deficiency,bleeding
+brain compression,abscess
+hippocampal sclerosis,dementia
+hippocampal sclerosis,febrile seizure
+hippocampal sclerosis,seizure
+Taeniasis saginata,diarrhea
+Taeniasis saginata,constipation
+Taeniasis saginata,abdominal pain
+Taeniasis saginata,nausea
+toxascariasis,diarrhea
+toxascariasis,vomiting
+trichostrongyloidosis,headache
+trichostrongyloidosis,anemia
+trichostrongyloidosis,irritability
+trichostrongyloidosis,constipation
+trichostrongyloidosis,abdominal pain
+trichostrongyloidosis,burping
+trichostrongyloidosis,eosinophilia
+trichostrongyloidosis,asthenia
+17-beta-hydroxysteroid dehydrogenase deficiency,ambiguous genitalia
+3-methylcrotonyl-CoA carboxylase deficiency,diarrhea
+3-methylcrotonyl-CoA carboxylase deficiency,vomiting
+airsickness,headache
+airsickness,dizziness
+Loeffler endocarditis,endocarditis
+Ascher's syndrome,blepharochalasis
+Ascher's syndrome,nontoxic goiter
+bagassosis,muscle weakness
+bagassosis,chills
+Bart-Pumphrey syndrome,Knuckle pads
+cannabinoid hyperemesis syndrome,hyperemesis
+carotidynia,neck pain
+cerebrospinal fluid leak,neck stiffness
+cerebrospinal fluid leak,orthostatic headache
+cerebrospinal fluid leak,intracranial hypotension
+cerebrospinal fluid leak,cranial nerve dysfunction
+cerebrospinal fluid leak,radicular arm pain
+comedocarcinoma,necrosis
+congenital secretory chloride diarrhea 1,diarrhea
+congenital disorder of glycosylation type IIc,infection
+congenital disorder of glycosylation type IIc,intellectual disability
+congenital disorder of glycosylation type IIc,dwarfism
+congenital disorder of glycosylation type IIc,hh blood group
+Cushing ulcer,intracranial hypertension
+pneumocystis pneumonia,cough
+pneumocystis pneumonia,low-grade fever
+pneumocystis pneumonia,respiratory failure
+pneumocystis pneumonia,atypical pneumonia
+Trousseau's syndrome,thrombophlebitis migrans
+polyuric-polydipsic syndrome,polydipsia
+polyuric-polydipsic syndrome,polyuria
+Wuchereria bancrofti filariasis,edema
+Wuchereria bancrofti filariasis,filarial elephantiasis
+Wuchereria bancrofti filariasis,lymphedema
+sennetsu fever,lymphadenopathy
+sennetsu fever,hepatosplenomegaly
+sennetsu fever,chills
+sennetsu fever,enlargement of lymph nodes
+multiple pterygium syndrome,pterygium
+ethylmalonic encephalopathy,diarrhea
+Mungan syndrome,chronic intestinal pseudoobstruction
+hypoplastic tibiae-postaxial polydactyly syndrome,mesomelia
+systolic heart failure,heart failure
+Knobloch syndrome,nystagmus
+Encephalocraniocutaneous lipomatosis,Nevus psiloliparus
+Polydactyly of a triphalangeal thumb,triphalangeal thumb
+Faroe SUCLA2 related disease,deafness
+Faroe SUCLA2 related disease,muscle weakness
+Chapare hemorrhagic fever,vomiting
+Chapare hemorrhagic fever,bleeding
+Chapare hemorrhagic fever,shock
+Chapare hemorrhagic fever,arthralgia
+secretory diarrhea,diarrhea
+Korean hemorrhagic fever,shock
+Korean hemorrhagic fever,nausea
+Korean hemorrhagic fever,hypotension
+Korean hemorrhagic fever,chills
+Korean hemorrhagic fever,back pain
+lujo hemorrhagic fever,bleeding
+acanthocephaliasis,diarrhea
+acanthocephaliasis,vomiting
+acanthocephaliasis,constipation
+acanthocephaliasis,nausea
+acanthocephaliasis,blood in stool
+infantile cerebellar-retinal degeneration,retinal degeneration
+infantile cerebellar-retinal degeneration,neonatal hypotonia
+Crohn's colitis,diarrhea
+Crohn's colitis,inflammation
+Crohn's colitis,abscess
+Crohn's colitis,bleeding
+functional diarrhea,diarrhea
+viral labyrinthitis,vomiting
+viral labyrinthitis,nausea
+diverticulitis of colon,inflammation
+gastrointestinal anthrax,diarrhea
+gastrointestinal anthrax,vomiting
+West Nile encephalitis,paralysis
+West Nile encephalitis,coma
+West Nile encephalitis,muscle weakness
+West Nile encephalitis,mental confusion
+sea-blue histiocyte syndrome,sea-blue histiocytosis
+nodular episcleritis,inflammation
+splenic tuberculosis,abscess
+heroin dependence,brain damage
+heroin dependence,mental depression
+heroin dependence,withdrawal symptom
+heroin dependence,cognitive dysfunction
+dengue shock syndrome,bleeding
+dengue shock syndrome,shock
+dengue shock syndrome,hypotension
+Cataract-microcornea syndrome,cataract
+Cataract-microcornea syndrome,microcornea
+Streptocerciasis,itch
+Streptocerciasis,rash
+Streptocerciasis,depigmentation
+manic episode,exaltation
+neurotic disorder,hallucination
+choking,distress
+"Severe X-linked intellectual disability, Gustavson type",epilepsy
+"Severe X-linked intellectual disability, Gustavson type",intellectual disability
+"Severe X-linked intellectual disability, Gustavson type",microcephaly
+"Severe X-linked intellectual disability, Gustavson type",optic atrophy
+"Severe X-linked intellectual disability, Gustavson type",hearing loss
+immune-mediated necrotizing myopathy,muscle weakness
+spinal muscular atrophy with respiratory distress type 2,muscle atrophy
+glucocorticoid deficiency 2,hypotension
+glucocorticoid deficiency 2,failure to thrive
+glucocorticoid deficiency 2,hyperpigmentation
+Bocavirus infection,cough
+Bocavirus infection,sneeze
+Bocavirus infection,fever
+Bocavirus infection,diarrhea
+Bocavirus infection,runny nose
+Bocavirus infection,atypical pneumonia
+MPI-CDG,vomiting
+MPI-CDG,bleeding
+congenital disorder of glycosylation Ih,diarrhea
+congenital disorder of glycosylation Ih,vomiting
+congenital disorder of glycosylation Ih,ascites
+congenital disorder of glycosylation Ih,left upper quadrant abdominal rigidity
+congenital disorder of glycosylation Il,left upper quadrant abdominal rigidity
+congenital disorder of glycosylation Ip,vomiting
+congenital disorder of glycosylation Ip,bleeding
+congenital disorder of glycosylation Ir,hepatic insufficiency
+congenital disorder of glycosylation Iy,vomiting
+headache disorders,headache
+steroid myopathy,muscle weakness
+smoking-related lung disease,cough
+smoking-related lung disease,dyspnea
+massive perivillous fibrin deposition,asymptomatic
+purulent meningitis,headache
+purulent meningitis,fever
+purulent meningitis,vomiting
+purulent meningitis,coma
+purulent meningitis,nausea
+purulent meningitis,photophobia
+purulent meningitis,hyperacusis
+purulent meningitis,cramp
+purulent meningitis,meningism signs
+Hemoglobin M disease,Hemoglobin M
+beta blocker poisoning,hypotension
+General paresis of the insane,dementia
+General paresis of the insane,delusion
+General paresis of the insane,tremor
+General paresis of the insane,neurasthenia
+General paresis of the insane,hyperreflexia
+General paresis of the insane,personality changes
+General paresis of the insane,cachexia
+General paresis of the insane,seizure
+General paresis of the insane,mood swing
+spinal leak of cerebrospinal fluid,neck stiffness
+spinal leak of cerebrospinal fluid,orthostatic headache
+spinal leak of cerebrospinal fluid,cranial nerve dysfunction
+spinal leak of cerebrospinal fluid,radicular arm pain
+cranial leak of cerebrospinal fluid,anosmia
+cranial leak of cerebrospinal fluid,runny nose
+cranial leak of cerebrospinal fluid,discharging ear
+cranial leak of cerebrospinal fluid,saltiness
+cranial leak of cerebrospinal fluid,metallic taste
+knee bursitis,inflammation
+knee bursitis,swelling
+knee bursitis,cyst
+dientamoebiasis,diarrhea
+dientamoebiasis,nausea
+dientamoebiasis,abdominal cramps
+esophageal candidiasis,bleeding
+GRACILE syndrome,deafness
+GRACILE syndrome,liver cirrhosis
+GRACILE syndrome,cholestasis
+GRACILE syndrome,lactic acidosis
+GRACILE syndrome,intrauterine growth restriction
+GRACILE syndrome,aminoaciduria
+GRACILE syndrome,decreased transferrin saturation
+GRACILE syndrome,hepatic steatosis
+GRACILE syndrome,increased serum ferritin
+GRACILE syndrome,renal Fanconi syndrome
+Gastrojejunocolic fistula,fecal vomiting
+granulomatous amebic encephalitis,headache
+granulomatous amebic encephalitis,fever
+granulomatous amebic encephalitis,paralysis
+granulomatous amebic encephalitis,vomiting
+granulomatous amebic encephalitis,coma
+granulomatous amebic encephalitis,nausea
+granulomatous amebic encephalitis,spasm
+granulomatous amebic encephalitis,meningism signs
+GM1 gangliosidosis type 1,hepatosplenomegaly
+ileocolitis,diarrhea
+Ichthyosis follicularis with alopecia and photophobia syndrome,photophobia
+Ichthyosis follicularis with alopecia and photophobia syndrome,ichthyosis
+Ichthyosis follicularis with alopecia and photophobia syndrome,alopecia
+progeroid syndrome,senescence
+progeroid syndrome,Prematurely aged appearance
+Ladd's bands,vomiting
+Ladd's bands,abdominal pain
+Loin pain hematuria syndrome,hematuria
+Loin pain hematuria syndrome,loin pain
+MORM syndrome,obesity
+MORM syndrome,intellectual disability
+MORM syndrome,micropenis
+MORM syndrome,fundus dystrophy
+MonoMAC,monocytopenia
+N-Acetylglutamate synthase deficiency,hyperammonemia
+fasciolosis,anemia
+fasciolosis,fever
+fasciolosis,diarrhea
+fasciolosis,vomiting
+fasciolosis,jaundice
+fasciolosis,abdominal pain
+fasciolosis,nausea
+fasciolosis,rash
+fasciolosis,hepatomegaly
+fasciolosis,left upper quadrant abdominal rigidity
+Nevus comedonicus syndrome,cataract
+Nevus comedonicus syndrome,scoliosis
+Nevus comedonicus syndrome,Nevus comedonicus
+pentalogy of Cantrell,Ectopia cordis
+pentalogy of Cantrell,omphalocele
+pentalogy of Cantrell,diaphragmatic hernia
+pentalogy of Cantrell,Sternal cleft
+plica syndrome,knee pain
+potomania,hyponatremia
+primary hypertrophic osteoarthropathy,nail clubbing
+pustulosis,pustule
+Smith–Fineman–Myers syndrome,facial hypotonia
+glucocorticoid-induced osteoporosis,ptosis
+Taussig–Bing syndrome,double outlet right ventricle
+Taussig–Bing syndrome,ventricular septal defect
+tricho-hepato-enteric syndrome,diarrhea
+aphantasia,non-existence
+vinyl chloride exposure,fatigue
+vinyl chloride exposure,abdominal pain
+vinyl chloride exposure,frostbite
+vinyl chloride exposure,hepatomegaly
+vinyl chloride exposure,gastrointestinal bleeding
+vinyl chloride exposure,pallor or cyanosis of extremities
+Wiedemann-Steiner syndrome,hypertrichosis
+Wiedemann-Steiner syndrome,failure to thrive
+congenital diarrhea 6,diarrhea
+"alacrima, achalasia, and mental retardation syndrome",intellectual disability
+"alacrima, achalasia, and mental retardation syndrome",achalasia
+"alacrima, achalasia, and mental retardation syndrome",Alacrima
+platelet-type bleeding disorder 10,bleeding
+early dumping syndrome,vomiting
+early dumping syndrome,abdominal pain
+early dumping syndrome,tachycardia
+early dumping syndrome,hot flash
+early dumping syndrome,sweating
+early dumping syndrome,dizziness
+late dumping syndrome,syncope
+late dumping syndrome,tachycardia
+late dumping syndrome,convulsion
+late dumping syndrome,malaise
+late dumping syndrome,sweating
+late dumping syndrome,finger tremor
+neuroleptic extrapyramidal disorder,akathisia
+neuroleptic extrapyramidal disorder,acute dystonia
+neuroleptic extrapyramidal disorder,parkinsonian syndrome
+neuroleptic extrapyramidal disorder,tardive dyskinesia
+apathy-aboulia syndrome,avolition
+Nipah virus infection,headache
+Nipah virus infection,cough
+Nipah virus infection,fever
+Nipah virus infection,vomiting
+Nipah virus infection,coma
+Nipah virus infection,sleep disorder
+Nipah virus infection,abdominal pain
+Nipah virus infection,nausea
+Nipah virus infection,dyspnea
+Nipah virus infection,somnolence
+infantile parkinsonism-dystonia,tremor
+infantile parkinsonism-dystonia,dystonia
+bites and stings,swelling
+bites and stings,bleeding
+bites and stings,abrasion
+bites and stings,laceration
+spinal osteophytosis,osteophyte
+TARP syndrome,atrial heart septal defect
+TARP syndrome,micrognathism
+TARP syndrome,clubfoot
+TARP syndrome,persistent left superior vena cava
+TARP syndrome,isolated cleft palate
+encephalopathy due to prosaposin deficiency,hepatosplenomegaly
+combined malonic and methylmalonic acidemia,coma
+combined malonic and methylmalonic acidemia,hypoglycemia
+combined malonic and methylmalonic acidemia,microcephaly
+combined malonic and methylmalonic acidemia,convulsion
+combined malonic and methylmalonic acidemia,dystonia
+combined malonic and methylmalonic acidemia,ketoacidosis
+combined malonic and methylmalonic acidemia,failure to thrive
+combined malonic and methylmalonic acidemia,Memory Problems
+STING-associated vasculopathy with onset in infancy,necrosis

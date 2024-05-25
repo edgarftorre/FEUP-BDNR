@@ -1,0 +1,1262 @@
+diseaseLabel,treatmentLabel
+carcinoma,sirolimus
+carcinoma,lidocaine
+carcinoma,trastuzumab
+carcinoma,cabazitaxel
+carcinoma,bevacizumab
+carcinoma,anastrozole
+carcinoma,everolimus
+carcinoma,paclitaxel
+carcinoma,diethylstilbestrol
+carcinoma,tolvaptan
+carcinoma,ipilimumab
+carcinoma,nilutamide
+carcinoma,regorafenib
+carcinoma,axitinib
+carcinoma,olaparib
+hemorrhoid,cortisol
+hemorrhoid,phenylephrine
+hemorrhoid,benzocaine
+hemorrhoid,Euphorbia prostrata
+hemorrhoid,pramoxine
+arterial hypertension,nifedipine
+arterial hypertension,valsartan
+arterial hypertension,triamterene
+arterial hypertension,bumetanide
+arterial hypertension,perindopril
+arterial hypertension,terazosin
+arterial hypertension,ubidecarenone
+arterial hypertension,furosemide
+arterial hypertension,reserpine
+arterial hypertension,(RS)-metoprolol
+arterial hypertension,losartan
+arterial hypertension,verapamil
+arterial hypertension,atenolol
+arterial hypertension,amlodipine
+arterial hypertension,lisinopril
+arterial hypertension,clonidine
+arterial hypertension,Bisoprolol
+arterial hypertension,carvedilol
+arterial hypertension,methyldopa
+arterial hypertension,ramipril
+arterial hypertension,(S)-(−)-timolol
+arterial hypertension,isradipine
+arterial hypertension,aliskiren
+arterial hypertension,candesartan
+arterial hypertension,pindolol
+arterial hypertension,nebivolol
+arterial hypertension,esmolol
+arterial hypertension,ethacrynic acid
+arterial hypertension,acebutolol
+arterial hypertension,phenoxybenzamine
+arterial hypertension,doxazosin
+arterial hypertension,torasemide
+arterial hypertension,hydralazine
+arterial hypertension,amiloride
+arterial hypertension,rivaroxaban
+arterial hypertension,phentolamine
+arterial hypertension,felodipine
+arterial hypertension,guanethidine
+arterial hypertension,captopril
+arterial hypertension,olmesartan
+arterial hypertension,enalapril
+arterial hypertension,spironolactone
+arterial hypertension,diltiazem
+arterial hypertension,propranolol
+arterial hypertension,eplerenone
+arterial hypertension,hydrochlorothiazide
+arterial hypertension,minoxidil
+arterial hypertension,nadolol
+arterial hypertension,chlorthalidone
+arterial hypertension,fosinopril
+arterial hypertension,prazosin
+arterial hypertension,carteolol
+arterial hypertension,benazepril
+arterial hypertension,quinapril
+arterial hypertension,nicardipine
+arterial hypertension,telmisartan
+arterial hypertension,eprosartan
+arterial hypertension,betaxolol
+arterial hypertension,trandolapril
+arterial hypertension,penbutolol
+arterial hypertension,irbesartan
+arterial hypertension,labetalol
+arterial hypertension,indapamide
+arterial hypertension,bendroflumethiazide
+arterial hypertension,metolazone
+arterial hypertension,trichlormethiazide
+arterial hypertension,moexipril
+arterial hypertension,chlorothiazide
+arterial hypertension,benzthiazide
+arterial hypertension,mecamylamine
+arterial hypertension,nisoldipine
+arterial hypertension,hydroflumethiazide
+arterial hypertension,amlodipine/benazepril
+arterial hypertension,amlodipine/valsartan
+arterial hypertension,bepridil
+arterial hypertension,cyclothiazide
+arterial hypertension,deserpidine
+arterial hypertension,guanabenz
+arterial hypertension,guanadrel
+arterial hypertension,guanfacine
+arterial hypertension,LCZ696
+arterial hypertension,methyclothiazide
+arterial hypertension,mibefradil
+arterial hypertension,polythiazide
+arterial hypertension,quinethazone
+arterial hypertension,telmisartan/hydrochlorothiazide
+arterial hypertension,atenolol/chlorthalidone
+arterial hypertension,dabigatran etexilate
+arterial hypertension,carteolol hydrochloride
+arterial hypertension,ethacrynate sodium
+arterial hypertension,clonidine hydrochloride
+arterial hypertension,irbesartan / hydrochlorothiazide
+arterial hypertension,lisinopril dihydrate
+arterial hypertension,enalapril / hydrochlorothiazide
+arterial hypertension,hydrochlorothiazide / triamterene
+arterial hypertension,hydrochlorothiazide / losartan
+arterial hypertension,hydrochlorothiazide / valsartan
+arterial hypertension,hydrochlorothiazide / spironolactone
+arterial hypertension,Hydrochlorothiazide / Lisinopril
+arterial hypertension,ezetimibe / simvastatin
+arterial hypertension,bisoprolol / hydrochlorothiazide
+arterial hypertension,candesartan / hydrochlorothiazide
+arterial hypertension,amlodipine / atorvastatin
+meningitis,5-Fluorocytosine
+meningitis,amikacin
+meningitis,DL-ofloxacin
+meningitis,minocycline
+meningitis,ceftriaxone
+meningitis,flucloxacillin
+ventricular tachycardia,(RS)-metoprolol
+ventricular tachycardia,amiodarone
+ventricular tachycardia,epinephrine / lidocaine
+bone fracture,denosumab
+bone fracture,teriparatide
+albinism,trioxsalen
+spasticity,diazepam
+spasticity,clonidine
+spasticity,(RS)-baclofen
+spasticity,carisoprodol
+spasticity,meprobamate
+spasticity,dantrolene
+spasticity,tizanidine
+spasticity,prazepam
+spasticity,chlormezanone
+spasticity,cyclobenzaprine
+spasticity,metaxalone
+febrile seizure,diazepam
+febrile seizure,phenobarbital
+febrile seizure,phenytoin
+gout,aspirin
+gout,ibuprofen
+gout,diclofenac
+gout,(S)-(−)-colchicine
+gout,indomethacin
+gout,allopurinol
+gout,febuxostat
+gout,probenecid
+gout,sulindac
+gout,naproxen
+gout,sulfinpyrazone
+gout,pegloticase
+migraine,paracetamol
+migraine,amitriptyline
+migraine,ibuprofen
+migraine,rizatriptan
+migraine,zolmitriptan
+migraine,zonisamide
+migraine,topiramate
+migraine,diclofenac
+migraine,fentanyl
+migraine,buprenorphine
+migraine,almotriptan
+migraine,lamotrigine
+migraine,gabapentin
+migraine,(S)-duloxetine
+migraine,pregabalin
+migraine,eletriptan
+migraine,sumatriptan
+migraine,ergotamine
+migraine,naratriptan
+migraine,dihydroergotamine
+migraine,propranolol
+migraine,triptan
+migraine,venlafaxine
+migraine,butorphanol
+migraine,naproxen
+migraine,ketorolac
+migraine,botulinum toxin type A
+migraine,clonixin
+Ancylostoma duodenale ancylostomiasis,albendazo
+Ancylostoma duodenale ancylostomiasis,mebendazole
+liver cirrhosis,bumetanide
+liver cirrhosis,adefovir
+liver cirrhosis,furosemide
+liver cirrhosis,boceprevir
+liver cirrhosis,rifaximin
+liver cirrhosis,ethacrynic acid
+liver cirrhosis,torasemide
+liver cirrhosis,peginterferon alfa-2a
+liver cirrhosis,ribavirin
+bubonic plague,ciprofloxacin
+bubonic plague,doxycycline
+bubonic plague,gentamicin
+bubonic plague,Xadani
+Zollinger–Ellison syndrome,(RS)-rabeprazole
+Zollinger–Ellison syndrome,lansoprazole
+Zollinger–Ellison syndrome,pantoprazole
+Zollinger–Ellison syndrome,cimetidine
+Zollinger–Ellison syndrome,famotidine
+Zollinger–Ellison syndrome,omeprazole
+Zollinger–Ellison syndrome,nizatidine
+Cushing's syndrome,(RS)-aminoglutethimide
+Cushing's syndrome,mitotane
+precocious puberty,leuprolide
+dysarthria,clonazepam
+dermatitis,glycerol
+dermatitis,DL-lactic acid
+dermatitis,DL-methionine
+dermatitis,orthoboric acid
+dermatitis,zinc oxide
+dermatitis,betamethasone
+dermatitis,doxycycline
+dermatitis,clobetasol
+dermatitis,alclometasone
+dermatitis,amcinonide
+dermatitis,thiostrepton
+dermatitis,crisaborole
+dermatitis,heliomycin
+chikungunya,non-steroidal anti-inflammatory drug
+cystitis,methenamine
+cystitis,fosfomycin
+cystitis,ciprofloxacin
+cystitis,DL-ofloxacin
+cystitis,amphotericin B
+cystitis,cefpodoxime
+cystitis,norfloxacin
+cystitis,nitrofurantoin
+cystitis,moxifloxacin
+cystitis,marbofloxacin
+cystitis,enoxacin
+cystitis,gatifloxacin
+cystitis,tosufloxacin
+cystitis,carboprost
+cystitis,orbifloxacin
+cystitis,levofloxacin hemihydrate
+cystitis,sulfamethoxazole / trimethoprim
+acute coronary syndrome,aspirin
+acute coronary syndrome,clopidogrel
+acute coronary syndrome,prasugrel
+acute coronary syndrome,ticagrelor
+acute coronary syndrome,ezetimibe / simvastatin
+acute coronary syndrome,bisoprolol / hydrochlorothiazide
+stupor,mesocarb
+Accelerated phase chronic myelogenous leukemia,imatinib mesylate
+foodborne illness,activated carbon
+foodborne illness,Ringer's solution
+foodborne illness,Ringer's lactate solution
+uveitis,atropine
+uveitis,adalimumab
+uveitis,infliximab
+uveitis,methotrexate
+uveitis,dexamethasone
+uveitis,prednisolone
+urinary incontinence,midodrine
+urinary incontinence,phenoxybenzamine
+urinary incontinence,tolterodine
+urinary incontinence,flavoxate
+urinary incontinence,(RS)-oxybutynin
+nocturnal enuresis,mesocarb
+carcinoid syndrome,octreotide
+carcinoid syndrome,everolimus
+carcinoid syndrome,telotristat ethyl
+aspergilloma,itraconazole
+aspergilloma,voriconazole
+aspergilloma,antifungal
+aspergilloma,triazoles
+aspergilloma,posaconazole
+mercury poisoning,D-penicillamine
+multiple myeloma,thalidomide
+multiple myeloma,(RS)-cyclophosphamide
+multiple myeloma,cisplatin
+multiple myeloma,procarbazine
+multiple myeloma,bortezomib
+multiple myeloma,(RS)-lenalidomide
+multiple myeloma,plerixafor
+multiple myeloma,melphalan
+multiple myeloma,aldesleukin
+multiple myeloma,ixazomib
+multiple myeloma,doxorubicin hydrochloride
+multiple myeloma,dexamethasone acetate
+multiple myeloma,(S)-thalidomide
+anasarka,triamterene
+anasarka,bumetanide
+anasarka,furosemide
+anasarka,ethacrynic acid
+anasarka,danazol
+anasarka,torasemide
+anasarka,amiloride
+anasarka,captopril
+anasarka,enalapril
+multidrug-resistant tuberculosis,bedaquiline
+multidrug-resistant tuberculosis,delamanid
+coccidioidomycosis,natamycin
+coccidioidomycosis,Ketoconazole
+coccidioidomycosis,itraconazole
+coccidioidomycosis,fluconazole
+coccidioidomycosis,amphotericin B
+blood coagulation disease,menadiol
+blood coagulation disease,menadione
+blood coagulation disease,tranexamic acid
+inflammatory bowel diseases,cromoglicic acid
+inflammatory bowel diseases,clidinium
+onychomycosis,itraconazole
+onychomycosis,terbinafine
+onychomycosis,ciclopirox
+bronchopulmonary dysplasia,palivizumab
+epidermolysis bullosa,phenytoin
+osteomyelitis,ciprofloxacin
+osteomyelitis,methicillin
+osteomyelitis,oxacillin
+osteomyelitis,cloxacillin
+osteomyelitis,nafcillin
+osteomyelitis,dicloxacillin
+osteomyelitis,acexamic acid
+erythrasma,erythromycin
+proctitis,mesalazine
+proctitis,ceftriaxone
+myelodysplastic syndrome,cytarabine
+myelodysplastic syndrome,thalidomide
+myelodysplastic syndrome,cyclosporine
+myelodysplastic syndrome,eltrombopag
+myelodysplastic syndrome,azacitidine
+myelodysplastic syndrome,deferoxamine
+myelodysplastic syndrome,(RS)-lenalidomide
+myelodysplastic syndrome,deferiprone
+myelodysplastic syndrome,vorinostat
+myelodysplastic syndrome,decitabine
+myelodysplastic syndrome,romiplostim
+myelodysplastic syndrome,ipilimumab
+myelodysplastic syndrome,filgrastim
+myelodysplastic syndrome,deferasirox
+myelodysplastic syndrome,epoetin alfa
+myelodysplastic syndrome,nivolumab
+myelodysplastic syndrome,ruxolitinib
+myelodysplastic syndrome,venetoclax
+prolactinoma,bromocriptine
+prolactinoma,cabergoline
+cerebral edema,D-(-)-mannitol
+cerebral edema,dexamethasone
+cerebral edema,mannitol hexanitrate
+cerebral edema,prednisolone hemisuccinate
+polymyositis,tacrolimus
+polymyositis,rituximab
+polymyositis,methotrexate
+polymyositis,mycophenolate mofetil
+polymyositis,prednisolone
+Crimean-Congo hemorrhagic fever,antibody
+Crimean-Congo hemorrhagic fever,corticosteroid
+Crimean-Congo hemorrhagic fever,ribavirin
+chronic myelomonocytic leukemia,azacitidine
+chronic myelomonocytic leukemia,(RS)-lenalidomide
+liver cirrhosis,tolvaptan
+liver cirrhosis,sofosbuvir
+liver cirrhosis,daclatasvir
+liver cirrhosis,peginterferon alfa-2b
+liver cirrhosis,simeprevir
+liver cirrhosis,obeticholic acid
+liver cirrhosis,ledipasvir/sofosbuvir
+liver cirrhosis,entecavir hydrate
+liver cirrhosis,ethacrynate sodium
+leptospirosis,amoxicillin
+leptospirosis,benzylpenicillin
+leptospirosis,pentoxifylline
+leptospirosis,cefotaxime
+leptospirosis,aprotinin
+leptospirosis,ceftriaxone
+leptospirosis,ethamsylate
+delirium,haloperidol
+delirium,trazodone
+scabies,lindane
+scabies,permethrin
+scabies,ivermectin
+scabies,piperonyl butoxide
+scabies,(E)-crotamiton
+bronchitis,cefixime
+bronchitis,azithromycin
+bronchitis,cefpodoxime
+bronchitis,josamycin
+bronchitis,sparfloxacin
+bronchitis,dyphylline
+bronchitis,cefdinir
+bronchitis,methacycline
+bronchitis,erdosteine
+bronchitis,acefylline
+bronchitis,dicloxacillin sodium
+psoriasis,tacalcitol
+psoriasis,calcipotriene
+psoriasis,non-steroidal anti-inflammatory drug
+psoriasis,desoximetasone
+psoriasis,methotrexate
+psoriasis,desonide
+psoriasis,apremilast
+psoriasis,tazarotene
+psoriasis,ethyl fumarate
+gastritis,lansoprazole
+gastritis,pantoprazole
+gastritis,sucralfate
+gastritis,omeprazole
+gastritis,ranitidine
+gastritis,esomeprazole
+gastritis,dexlansoprazole
+sepsis,amikacin
+sepsis,drotrecogin alfa
+sepsis,cefotaxime
+sepsis,aztreonam
+sepsis,oxacillin
+sepsis,ceftriaxone
+sepsis,gentamicin
+sepsis,piperacillin
+sepsis,imipen
+sepsis,ertapenem
+sepsis,ceftazidime
+sepsis,ceftizoxime
+sepsis,nafcillin
+sepsis,cefoxitin
+sepsis,cefepime
+sepsis,ticarcillin
+sepsis,cefotetan
+sepsis,mezlocillin
+pulmonary emphysema,acetylcysteine
+pulmonary emphysema,theophylline
+pulmonary emphysema,aminophylline
+pulmonary emphysema,dyphylline
+pulmonary emphysema,acefylline
+pulmonary emphysema,oxtriphylline
+heart arrhythmia,lidocaine
+heart arrhythmia,dronedarone
+heart arrhythmia,(RS)-metoprolol
+heart arrhythmia,amiodarone
+heart arrhythmia,papaverine
+heart arrhythmia,sotalol
+heart arrhythmia,rivaroxaban
+heart arrhythmia,flecainide
+heart arrhythmia,digoxin
+heart arrhythmia,encainide
+heart arrhythmia,(RS)-propafenone
+heart arrhythmia,tocainide
+heart arrhythmia,moricizine
+heart arrhythmia,dofetilide
+heart arrhythmia,atenolol/chlorthalidone
+heart arrhythmia,dabigatran etexilate
+heart disease,aspirin
+heart disease,valsartan
+heart disease,sildenafil
+heart disease,aprindine
+heart disease,furosemide
+heart disease,(RS)-metoprolol
+heart disease,amiodarone
+heart disease,clopidogrel
+heart disease,carvedilol
+heart disease,palivizumab
+anasarka,spironolactone
+anasarka,hydrochlorothiazide
+anasarka,chlorthalidone
+anasarka,indapamide
+anasarka,bendroflumethiazide
+anasarka,metolazone
+anasarka,trichlormethiazide
+anasarka,chlorothiazide
+anasarka,benzthiazide
+anasarka,hydroflumethiazide
+anasarka,loteprednol etabonate
+anasarka,cyclothiazide
+anasarka,icodextrin
+anasarka,methyclothiazide
+anasarka,polythiazide
+anasarka,quinethazone
+anasarka,prednisolone
+anasarka,ethacrynate sodium
+psoriatic arthritis,etanercept
+psoriatic arthritis,auranofin
+psoriatic arthritis,apremilast
+psoriatic arthritis,aurothioglucose
+tetany,calcium chloride
+tetany,calcium gluconate
+tetany,calcium gluceptate
+photodermatitis,4-aminobenzoic acid
+photodermatitis,hydroxychloroquine
+photodermatitis,oxybenzone
+photodermatitis,cinoxate
+photodermatitis,avobenzone
+subarachnoid hemorrhage,tranexamic acid
+subarachnoid hemorrhage,nimodipine
+basal-cell carcinoma,fluorouracil
+basal-cell carcinoma,imiquimod
+basal-cell carcinoma,vismodegib
+basal-cell carcinoma,solasonine
+basal-cell carcinoma,sonidegib
+opportunistic infection,ganciclovir
+adenovirus infection,antibody
+adenovirus infection,Deoxyribonuclease
+adenovirus infection,symptomatic treatment
+irritable bowel syndrome,tegaserod
+irritable bowel syndrome,adalimumab
+irritable bowel syndrome,mesalazine
+irritable bowel syndrome,hyoscyamine
+irritable bowel syndrome,infliximab
+irritable bowel syndrome,rifaximin
+irritable bowel syndrome,alosetron
+irritable bowel syndrome,mebeverine
+irritable bowel syndrome,loperamide
+irritable bowel syndrome,trimebutine
+irritable bowel syndrome,dicyclomine
+irritable bowel syndrome,propantheline
+irritable bowel syndrome,linaclotide
+irritable bowel syndrome,lubiprostone
+irritable bowel syndrome,polycarbophil calcium
+ventricular fibrillation,epinephrine
+ventricular fibrillation,arginine vasopressin
+ventricular fibrillation,lidocaine
+ventricular fibrillation,(RS)-metoprolol
+ventricular fibrillation,amiodarone
+ventricular fibrillation,atenolol
+ventricular fibrillation,sotalol
+ventricular fibrillation,esmolol
+ventricular fibrillation,acebutolol
+ventricular fibrillation,bretylium
+ventricular fibrillation,(RS)-mexiletine
+ventricular fibrillation,propranolol
+ventricular fibrillation,moricizine
+diabetic nephropathy,gabapentin
+diabetic nephropathy,pregabalin
+graft-versus-host disease,sirolimus
+graft-versus-host disease,imatinib
+graft-versus-host disease,thalidomide
+graft-versus-host disease,cyclosporine
+graft-versus-host disease,methoxsalen
+graft-versus-host disease,tacrolimus
+graft-versus-host disease,rituximab
+graft-versus-host disease,daclizumab
+graft-versus-host disease,methylprednisolone
+graft-versus-host disease,prednisone
+graft-versus-host disease,mycophenolate mofetil
+graft-versus-host disease,ibrutinib
+graft-versus-host disease,ruxolitinib
+graft-versus-host disease,vedolizumab
+graft-versus-host disease,prednisolone
+tension headache,aspirin
+tension headache,paracetamol
+tension headache,amitriptyline
+tension headache,ibuprofen
+epispadias,epispadias repair
+Erdheim-Chester disease,vemurafenib
+heart conduction disease,bretylium
+erythema nodosum,thalidomide
+cerebral hemorrhage,simvastatin
+cerebral hemorrhage,alteplase
+Fazio-Londe disease,riboflavin 5'-phosphate sodium dihydrate
+spinal cord injury,(RS)-baclofen
+spinal cord injury,dantrolene
+heart disease,apixaban
+heart disease,rosuvastatin
+heart disease,rivaroxaban
+heart disease,ticagrelor
+heart disease,(RS)-dobutamine
+heart disease,atorvastatin
+heart disease,pharmaceutical preparation of nitroglycerin
+heart disease,dofetilide
+heart disease,LCZ696
+heart disease,atenolol/chlorthalidone
+heart disease,evolocumab
+heart disease,dabigatran etexilate
+heart disease,Hydrochlorothiazide / Lisinopril
+heart disease,bisoprolol / hydrochlorothiazide
+heart disease,amlodipine / atorvastatin
+heart disease,rac-warfarin
+jet lag,melatonin
+chronic obstructive pulmonary disease,ambroxol
+chronic obstructive pulmonary disease,(RS)-clenbuterol
+chronic obstructive pulmonary disease,glycopyrrolate
+chronic obstructive pulmonary disease,L-carbocysteine
+chronic obstructive pulmonary disease,indacaterol
+chronic obstructive pulmonary disease,formoterol
+chronic obstructive pulmonary disease,fluticasone furoate
+chronic obstructive pulmonary disease,bambuterol
+chronic obstructive pulmonary disease,erdosteine
+chronic obstructive pulmonary disease,etofylline
+chronic obstructive pulmonary disease,indacaterol maleate
+varicose veins,sodium tetradecyl sulfate
+varicose veins,myristyl sulfate
+Lyme disease,azithromycin
+Lyme disease,amoxicillin
+Lyme disease,cefuroxime
+Lyme disease,ceftriaxone
+Lyme disease,doxycycline
+anogenital venereal wart,imiquimod
+anogenital venereal wart,interferon alfa-n3
+anogenital venereal wart,podophyllin
+anogenital venereal wart,acedoben sodium
+medullary carcinoma,dacarbazine
+metabolic bone disease,calcifediol
+arteriosclerotic heart disease,aspirin
+arteriosclerotic heart disease,isosorbide dinitrate
+arteriosclerotic heart disease,clopidogrel
+arteriosclerotic heart disease,papaverine
+arteriosclerotic heart disease,tirofiban
+arteriosclerotic heart disease,calcium channel blocker
+arteriosclerotic heart disease,isosorbide mononitrate
+arteriosclerotic heart disease,anti-diabetic medication
+arteriosclerotic heart disease,beta blocker
+arteriosclerotic heart disease,ranolazine
+arteriosclerotic heart disease,statin
+arteriosclerotic heart disease,pharmaceutical preparation of nitroglycerin
+arteriosclerotic heart disease,lipid regulating agent
+hypertriglyceridemia,gemfibrozil
+hypertriglyceridemia,lovastatin
+hypertriglyceridemia,fluvastatin
+hypertriglyceridemia,colestyramine
+hypertriglyceridemia,fenofibrate
+hypertriglyceridemia,cerivastatin
+hypertriglyceridemia,atorvastatin
+hypertriglyceridemia,simvastatin
+hypertriglyceridemia,colesevelam
+hypertriglyceridemia,pravastatin
+hypertriglyceridemia,clofibrate
+hypertriglyceridemia,colestipol
+lipid metabolism disorder,rosuvastatin
+lipid metabolism disorder,fluvastatin
+lipid metabolism disorder,colesevelam
+atrial flutter,amiodarone
+atrial flutter,apixaban
+atrial flutter,rivaroxaban
+atrial flutter,dofetilide
+atrial flutter,dabigatran etexilate
+atrial flutter,rac-warfarin
+parkinsonian syndrome,procyclidine
+parkinsonian syndrome,ropinirol
+parkinsonian syndrome,levodopa/carbidopa
+parkinsonian syndrome,pimavanserin
+venous ulcer,becaplermin
+Post-transplant lymphoproliferative disorder,doxorubicin
+Post-transplant lymphoproliferative disorder,rituximab
+heparin-induced thrombocytopenia,(21R)-argatroban
+postoperative nausea and vomiting,metoclopramide
+carcinoid tumor,bevacizumab
+carcinoid tumor,sunitinib
+carcinoid tumor,octreotide
+carcinoid tumor,everolimus
+carcinoid tumor,telotristat ethyl
+polymyalgia rheumatica,etanercept
+polymyalgia rheumatica,methotrexate
+polymyalgia rheumatica,prednisone
+polymyalgia rheumatica,tocilizumab
+polymyalgia rheumatica,prednisolone
+septic shock,epinephrine
+septic shock,arginine vasopressin
+septic shock,norepinephrine
+septic shock,naloxone
+septic shock,phenylephrine
+septic shock,dexamethasone
+septic shock,hydrocortisone
+insomnia,amitriptyline
+insomnia,zaleplon
+insomnia,olanzapine
+insomnia,diazepam
+insomnia,zolpidem
+insomnia,alprazolam
+insomnia,clonazepam
+insomnia,lorazepam
+insomnia,quetiapine
+insomnia,methyprylon
+insomnia,ethinamate
+insomnia,gabapentin
+insomnia,butabarbital
+insomnia,trazodone
+insomnia,aprobarbital
+insomnia,triazolam
+insomnia,risperidone
+insomnia,eszopiclone
+insomnia,diphenhydramine
+insomnia,glutethimide
+insomnia,secobarbital
+insomnia,temazepam
+insomnia,amobarbital
+insomnia,cidoxepin
+insomnia,ramelteon
+insomnia,flurazepam
+insomnia,mirtazapine
+insomnia,doxylamine
+insomnia,thiobutabarbital
+insomnia,estazolam
+insomnia,ethchlorvynol
+insomnia,quazepam
+insomnia,bromodiphenhydramine
+insomnia,propiomazine
+insomnia,sodium oxybate
+insomnia,suvorexant
+microscopic polyangiitis,rituximab
+renal pelvis carcinoma,sunitinib
+renal pelvis carcinoma,cabozantinib
+renal pelvis carcinoma,axitinib
+substance use disorder,desipramine
+substance use disorder,doxapram
+T-cell lymphoma,doxorubicin
+T-cell lymphoma,methotrexate
+T-cell lymphoma,brentuximab vedotin
+T-cell lymphoma,(RS)-lenalidomide
+T-cell lymphoma,romidepsin
+pancreatic ductal carcinoma,gemcitabine
+tonsil cancer,cetuximab
+tongue cancer,cetuximab
+brain cancer,hydroxyurea
+brain cancer,mifepristone
+brain cancer,irinotecan
+brain cancer,bevacizumab
+brain cancer,lomustine
+brain cancer,carboplatin
+brain cancer,procarbazine
+brain cancer,etoposide
+brain cancer,Temozolomide
+corneal disease,deferoxamine
+cutaneous candidiasis,nystatin
+cutaneous candidiasis,Ketoconazole
+cutaneous candidiasis,miconazole
+cutaneous candidiasis,amphotericin B
+cutaneous candidiasis,clotrimazole
+cutaneous candidiasis,(RS)-econazole
+cutaneous candidiasis,ciclopirox
+cutaneous candidiasis,crystal violet
+cutaneous candidiasis,sulconazole
+cutaneous candidiasis,oxiconazole
+bile duct carcinoma,gemcitabine
+bile duct carcinoma,capecitabine
+myoclonic epilepsy,clonazepam
+lymphosarcoma,vinblastine
+lymphosarcoma,(RS)-cyclophosphamide
+lymphosarcoma,vincristine
+lymphosarcoma,cisplatin
+lymphosarcoma,cladribine
+lymphosarcoma,lomustine
+lymphosarcoma,bleomycin
+lymphosarcoma,chlorambucil
+lymphosarcoma,mercaptopurine
+lymphosarcoma,ifosfamide
+lymphosarcoma,procarbazine
+lymphosarcoma,sargramostim
+lymphosarcoma,pegaspargase
+lymphosarcoma,uracil mustard
+lymphosarcoma,aldesleukin
+pulmonary tuberculosis,linezolid
+pulmonary tuberculosis,DL-ofloxacin
+pulmonary tuberculosis,ethambutol
+pulmonary tuberculosis,rifampicin
+pulmonary tuberculosis,isoniazid
+pulmonary tuberculosis,levofloxacin
+pulmonary tuberculosis,rifabutin
+pulmonary tuberculosis,bedaquiline
+pulmonary tuberculosis,rifapentine
+pulmonary tuberculosis,levofloxacin hemihydrate
+colic,papaverine
+colic,hyoscyamine
+auto-brewery syndrome,fluconazole
+pneumocystis pneumonia,pentamidine
+pneumocystis pneumonia,atovaquone
+pneumocystis pneumonia,sulfamethoxazole/trimethoprim
+pneumocystis pneumonia,trimetrexate(1+)
+amoebic dysentery,iodoquinol
+elephantiasis,ivermectin
+bare lymphocyte syndrome 2,pegademase bovine
+Serratia infection,cefotaxime
+Serratia infection,ceftazidime
+Serratia infection,ceftizoxime
+Serratia infection,cefoperazone
+Serratia infection,cefepime
+chronic gastritis,troxipide
+haemophilus meningitis,meropenem
+tinea,Ketoconazole
+tinea,miconazole
+tinea,itraconazole
+tinea,naftifine
+tinea,tolnaftate
+tinea,terbinafine
+tinea,griseofulvin
+tinea,(RS)-econazole
+tinea,ciclopirox
+tinea,butenafine
+tinea,sulconazole
+tinea,oxiconazole
+tinea,clioquinol
+tinea,haloprogin
+systemic-onset juvenile idiopathic arthritis,etanercept
+systemic-onset juvenile idiopathic arthritis,anakinra
+systemic-onset juvenile idiopathic arthritis,methotrexate
+systemic-onset juvenile idiopathic arthritis,tocilizumab
+systemic-onset juvenile idiopathic arthritis,prednisolone
+T-cell prolymphocytic leukemia,alemtuzumab
+plasmablastic lymphoma,doxorubicin
+kidney infection,ciprofloxacin
+kidney infection,levofloxacin hemihydrate
+gastrointestinal carcinoma,imatinib
+gastrointestinal carcinoma,fluorouracil
+gastrointestinal carcinoma,bevacizumab
+gastrointestinal carcinoma,sunitinib
+gastrointestinal carcinoma,capecitabine
+gastrointestinal carcinoma,oxaliplatin
+small intestine carcinoid neuroendocrine tumor,telotristat ethyl
+Crohn's colitis,azathioprine
+Crohn's colitis,cholecalciferol
+Crohn's colitis,thalidomide
+Crohn's colitis,4-aminosalicylic acid
+lymphoblastic leukemia,vincristine
+lymphoblastic leukemia,teniposide
+lymphoblastic leukemia,(RS)-lenalidomide
+lymphoblastic leukemia,ibrutinib
+lymphoblastic leukemia,dasatinib monohydrate
+hepatic coma,kanamycin (extract)
+hepatic coma,β-lactulose
+pulmonary sarcoidosis,prednisone
+secondary parkinsonism,Mazaticol
+ovarian dysfunction,chlorotrianisene
+retinal vein occlusion,aspirin
+retinal vein occlusion,bevacizumab
+retinal vein occlusion,ranibizumab
+retinal vein occlusion,betamethasone
+retinal vein occlusion,dexamethasone
+retinal vein occlusion,triamcinolone acetonide
+retinal vein occlusion,aflibercept
+fallopian tube carcinoma,bevacizumab
+fallopian tube carcinoma,rucaparib
+fallopian tube carcinoma,niraparib
+acute maxillary sinusitis,cefpodoxime
+acute maxillary sinusitis,cefdinir
+colonic benign neoplasm,fluorouracil
+colonic benign neoplasm,irinotecan
+colonic benign neoplasm,lomustine
+colonic benign neoplasm,levamisole
+West Nile encephalitis,ribavirin
+infantile epileptic encephalopathy,corticotropin
+infantile epileptic encephalopathy,topiramate
+phosphorus metabolism disease,sevelamer
+germ cell cancer,irinotecan
+germ cell cancer,cisplatin
+germ cell cancer,gemcitabine
+germ cell cancer,carboplatin
+germ cell cancer,etoposide
+facial dermatosis,tretinoin
+facial dermatosis,DL-lactic acid
+facial dermatosis,cortisol
+facial dermatosis,desoximetasone
+facial dermatosis,betamethasone
+facial dermatosis,halcinonide
+facial dermatosis,desonide
+facial dermatosis,triamcinolone
+facial dermatosis,clobetasol
+facial dermatosis,prednicarbate
+facial dermatosis,alclometasone
+facial dermatosis,amcinonide
+facial dermatosis,clocortolone
+facial dermatosis,diflorasone
+facial dermatosis,flurandrenolide
+facial dermatosis,fluocinolone
+causalgia,tolazoline
+thymus cancer,sunitinib
+functional colonic disease,loperamide
+pulmonary immaturity,tyloxapol
+anal carcinoma,fluorouracil
+anal carcinoma,capecitabine
+anal carcinoma,nivolumab
+gum cancer,cetuximab
+subacute delirium,propofol
+subacute delirium,paraldehyde
+heroin dependence,buprenorphine
+tertiary neurosyphilis,probenecid
+cryptococcal meningitis,5-Fluorocytosine
+cryptococcal meningitis,fluconazole
+pulmonary cryptococcosis,5-Fluorocytosine
+metastatic melanoma,bevacizumab
+metastatic melanoma,vemurafenib
+metastatic melanoma,paclitaxel
+metastatic melanoma,Temozolomide
+metastatic melanoma,ipilimumab
+metastatic melanoma,dabrafenib
+metastatic melanoma,nivolumab
+metastatic melanoma,trametinib
+metastatic melanoma,pembrolizumab
+metastatic melanoma,cobimetinib
+neurotic disorder,amoxapine
+neurotic disorder,imipramine
+neurotic disorder,amitriptyline
+neurotic disorder,clomipramine
+neurotic disorder,nortriptyline
+neurotic disorder,lithium compounds
+neurotic disorder,alprazolam
+neurotic disorder,(±)-deprenyl
+neurotic disorder,sertraline
+neurotic disorder,lorazepam
+neurotic disorder,protriptyline
+neurotic disorder,paroxetine
+neurotic disorder,fluvoxamine
+neurotic disorder,isocarboxazid
+neurotic disorder,(RS)-citalopram
+neurotic disorder,trazodone
+neurotic disorder,buspirone
+neurotic disorder,isoflurane
+neurotic disorder,temazepam
+neurotic disorder,nefazodone
+neurotic disorder,cidoxepin
+neurotic disorder,maprotiline
+neurotic disorder,tranylcypromine
+neurotic disorder,pramipexole
+neurotic disorder,mirtazapine
+neurotic disorder,methylphenidate
+neurotic disorder,fluoxetine
+neurotic disorder,desipramine
+neurotic disorder,trimipramine
+neurotic disorder,escitalopram
+neurotic disorder,bupropion
+neurotic disorder,venlafaxine
+neurotic disorder,phenelzine
+AIDS-related Kaposi's sarcoma,alitretinoin
+gram-negative bacterial infection,cefixime
+gram-negative bacterial infection,tetracycline
+gram-negative bacterial infection,amoxicillin
+gram-negative bacterial infection,silver nitrate
+gram-negative bacterial infection,ampicillin
+gram-negative bacterial infection,ciprofloxacin
+gram-negative bacterial infection,amikacin
+gram-negative bacterial infection,cephalexin
+gram-negative bacterial infection,DL-ofloxacin
+gram-negative bacterial infection,oxytetracycline
+gram-negative bacterial infection,cefuroxime
+gram-negative bacterial infection,cefaclor
+gram-negative bacterial infection,minocycline
+gram-negative bacterial infection,cefazolin
+gram-negative bacterial infection,sulfamethoxazole
+gram-negative bacterial infection,norfloxacin
+gram-negative bacterial infection,cefotaxime
+gram-negative bacterial infection,aztreonam
+gram-negative bacterial infection,ceftibuten
+gram-negative bacterial infection,ceftriaxone
+gram-negative bacterial infection,kanamycin (extract)
+gram-negative bacterial infection,doxycycline
+gram-negative bacterial infection,gentamicin
+gram-negative bacterial infection,nitrofurantoin
+gram-negative bacterial infection,levofloxacin
+gram-negative bacterial infection,moxifloxacin
+gram-negative bacterial infection,cefapirin
+gram-negative bacterial infection,ceftazidime
+gram-negative bacterial infection,sparfloxacin
+gram-negative bacterial infection,carbenicillin
+gram-negative bacterial infection,cefpodoxime proxetil
+gram-negative bacterial infection,ceftizoxime
+gram-negative bacterial infection,cefdinir
+gram-negative bacterial infection,gemifloxacin
+gram-negative bacterial infection,enoxacin
+gram-negative bacterial infection,tobramycin
+gram-negative bacterial infection,cefadroxil
+gram-negative bacterial infection,cefoperazone
+gram-negative bacterial infection,cefoxitin
+gram-negative bacterial infection,gatifloxacin
+gram-negative bacterial infection,furazolidone
+gram-negative bacterial infection,cefepime
+gram-negative bacterial infection,sulfadiazine
+gram-negative bacterial infection,cefamandole
+gram-negative bacterial infection,ticarcillin
+gram-negative bacterial infection,cefotetan
+gram-negative bacterial infection,cephalothin
+gram-negative bacterial infection,demeclocycline
+gram-negative bacterial infection,(E)-cefprozil
+renal pelvis carcinoma,pazopanib
+Extravasation,phentolamine
+Extravasation,hyaluronidase
+microscopic colitis,mesalazine
+microscopic colitis,budesonide
+microscopic colitis,budesonide/formoterol
+cytomegaloviral disease,leflunomide
+cytomegaloviral disease,ganciclovir
+cytomegaloviral disease,valacyclovir
+cytomegaloviral disease,foscarnet
+cytomegaloviral disease,valganciclovir
+cytomegaloviral disease,cidofovir
+hemosiderosis,(RS)-cyclophosphamide
+chronic granulomatous disease,interferon gamma-1b
+subacute bacterial endocarditis,penicillin G procaine hydrate
+neurogenic bladder,(RS)-baclofen
+neurogenic bladder,hyoscyamine
+neurogenic bladder,bethanechol
+neurogenic bladder,(RS)-oxybutynin
+neurogenic bladder,mirabegron
+neurogenic bladder,botulinum toxin type A
+neurogenic bladder,distigmine
+strongyloidiasis,albendazo
+strongyloidiasis,ivermectin
+strongyloidiasis,mebendazole
+strongyloidiasis,thiabendazole
+skin infection,clarithromycin
+skin infection,azithromycin
+skin infection,aztreonam
+skin infection,(2R)-daptomycin
+skin infection,crystal violet
+skin infection,clindamycin
+skin infection,piperacillin
+skin infection,ertapenem
+skin infection,loracarbef
+skin infection,sulconazole
+skin infection,ticarcillin
+skin infection,mezlocillin
+skin infection,clioquinol
+skin infection,chlorhexidine
+skin infection,penicillin v potassium
+hypereosinophilic syndrome,hydroxyurea
+upper respiratory tract infection,clarithromycin
+upper respiratory tract infection,cefixime
+upper respiratory tract infection,azithromycin
+upper respiratory tract infection,amoxicillin
+upper respiratory tract infection,ampicillin
+upper respiratory tract infection,ciprofloxacin
+upper respiratory tract infection,amikacin
+upper respiratory tract infection,cephalexin
+upper respiratory tract infection,DL-ofloxacin
+upper respiratory tract infection,cefaclor
+upper respiratory tract infection,cefazolin
+upper respiratory tract infection,cefotaxime
+upper respiratory tract infection,aztreonam
+upper respiratory tract infection,oxacillin
+upper respiratory tract infection,meropenem
+upper respiratory tract infection,ceftriaxone
+upper respiratory tract infection,kanamycin (extract)
+upper respiratory tract infection,cloxacillin
+upper respiratory tract infection,gentamicin
+upper respiratory tract infection,trimethoprim
+upper respiratory tract infection,piperacillin
+upper respiratory tract infection,levofloxacin
+upper respiratory tract infection,moxifloxacin
+upper respiratory tract infection,imipen
+upper respiratory tract infection,trovafloxacin
+upper respiratory tract infection,cefapirin
+upper respiratory tract infection,ertapenem
+upper respiratory tract infection,ceftazidime
+upper respiratory tract infection,sparfloxacin
+upper respiratory tract infection,loracarbef
+upper respiratory tract infection,cefpodoxime proxetil
+upper respiratory tract infection,ceftizoxime
+upper respiratory tract infection,cefdinir
+upper respiratory tract infection,nafcillin
+upper respiratory tract infection,tobramycin
+upper respiratory tract infection,dicloxacillin
+upper respiratory tract infection,cefadroxil
+upper respiratory tract infection,cefoperazone
+upper respiratory tract infection,cefoxitin
+upper respiratory tract infection,gatifloxacin
+upper respiratory tract infection,cefamandole
+upper respiratory tract infection,ticarcillin
+upper respiratory tract infection,cefotetan
+upper respiratory tract infection,cephalothin
+upper respiratory tract infection,bacampicillin
+upper respiratory tract infection,(E)-cefprozil
+upper respiratory tract infection,mezlocillin
+upper respiratory tract infection,cefditoren
+upper respiratory tract infection,cyclacillin
+upper respiratory tract infection,penicillin v potassium
+folate deficiency,folic acid
+hemorrhagic shock,sodium chloride
+renovascular hypertension,fenoldopam
+neurological disorder,lamotrigine
+neurological disorder,gabapentin
+neurological disorder,pregabalin
+PHACE association,propranolol
+obstructive lung disease,rac-salbutamol
+obstructive lung disease,hydrocodone
+obstructive lung disease,metaproterenol
+obstructive lung disease,salmeterol
+obstructive lung disease,terbutaline
+obstructive lung disease,formoterol
+rotator cuff tear,diclofenac
+connective tissue neoplasm,sunitinib
+erythroblastopenia,cyclosporine
+erythroblastopenia,deferasirox
+beta thalassemia,sodium phenylbutyrate
+keratosis,fluorouracil
+keratosis,diclofenac
+keratosis,ammonium DL-lactate
+keratosis,masoprocol
+vernal conjunctivitis,nedocromil
+vernal conjunctivitis,triprolidine
+vernal conjunctivitis,azelastine
+vernal conjunctivitis,astemizole
+vernal conjunctivitis,antazoline
+vernal conjunctivitis,levocabastine
+vernal conjunctivitis,olopatadine
+vernal conjunctivitis,loteprednol etabonate
+vernal conjunctivitis,lodoxamide
+vernal conjunctivitis,medrysone
+vernal conjunctivitis,pemirolast
+seasonal allergic rhinitis,fexofenadine
+seasonal allergic rhinitis,montelukast
+seasonal allergic rhinitis,desloratadine
+seasonal allergic rhinitis,azelastine
+seasonal allergic rhinitis,levocetirizine
+seasonal allergic rhinitis,cetirizine
+seasonal allergic rhinitis,loratadine
+seasonal allergic rhinitis,fluticasone
+seasonal allergic rhinitis,mometasone
+seasonal allergic rhinitis,azelastine / fluticasone
+Zenker's paralysis,dalfampridine
+drug reaction with eosinophilia and systemic symptoms,prednisolone
+congenital torticollis,tetrabenazine
+congenital torticollis,botulinum toxin type A
+gastric ulcer,calcium carbonate
+gastric ulcer,atropine
+gastric ulcer,lansoprazole
+gastric ulcer,pantoprazole
+gastric ulcer,magnesium hydroxide
+gastric ulcer,cimetidine
+gastric ulcer,famotidine
+gastric ulcer,magaldrate
+gastric ulcer,sucralfate
+gastric ulcer,omeprazole
+gastric ulcer,ranitidine
+gastric ulcer,esomeprazole
+gastric ulcer,nizatidine
+gastric ulcer,troxipide
+gastric ulcer,aluminium carbonate
+gastric ulcer,calcium gluceptate
+gastric ulcer,carbonate ion
+gastric ulcer,dihydroxyaluminum sodium carbonate
+alcoholic neuropathy,hydroxocobalamin
+alcoholic neuropathy,thiamine(1+) ion
+alcoholic neuropathy,cyanocobalamin
+congenital adrenal hyperplasia due to 3 beta-hydroxysteroid dehydrogenase deficiency,cortisol
+vitamin D deficiency,calcifediol
+ariboflavinosis,riboflavin
+mycobacterium infectious disease,clarithromycin
+airway obstruction,epinephrine
+airway obstruction,adenoidectomy
+Taeniasis saginata,praziquantel
+toxascariasis,imidacloprid
+Helicobacter pylori infectious disease,clarithromycin
+acute basophilic leukemia,thioguanine hydrate
+Acute eosinophilic leukemia,thioguanine hydrate
+Bellini duct carcinoma,thalidomide
+Bellini duct carcinoma,hydroxyurea
+Bellini duct carcinoma,aldesleukin
+cerebrospinal fluid leak,epidural blood patch
+cutaneous T cell lymphoma,methoxsalen
+cutaneous T cell lymphoma,bexarotene
+fasciolosis,triclabendazole
+fasciolosis,praziquantel
+fasciolosis,nitazoxanide
+fasciolosis,bithionol
+cholelithiasis,ursodiol
+focal epilepsy,oxcarbazepine
+focal epilepsy,zonisamide
+focal epilepsy,topiramate
+focal epilepsy,phenobarbital
+focal epilepsy,lorazepam
+focal epilepsy,lamotrigine
+focal epilepsy,gabapentin
+focal epilepsy,oxazepam
+focal epilepsy,(S)-etiracetam
+focal epilepsy,clorazepic acid
+focal epilepsy,tiagabine
+focal epilepsy,prazepam
+persistent fetal circulation syndrome,tolazoline
+pigmentation disorder,trioxsalen
+pigmentation disorder,monobenzone
+esophageal candidiasis,fluconazole
+esophageal candidiasis,voriconazole
+esophageal candidiasis,anidulafungin
+granulomatous amebic encephalitis,Ketoconazole
+granulomatous amebic encephalitis,fluconazole
+granulomatous amebic encephalitis,amphotericin B
+granulomatous amebic encephalitis,rifampicin
+granulomatous amebic encephalitis,sulfamethoxazole/trimethoprim
+granulomatous amebic encephalitis,sulfadiazine
+tinea pedis,sodium hypochlorite
+tinea pedis,Ketoconazole
+tinea pedis,miconazole
+tinea pedis,naftifine
+tinea pedis,tolnaftate
+tinea pedis,terbinafine
+tinea pedis,griseofulvin
+tinea pedis,(RS)-econazole
+tinea pedis,ciclopirox
+tinea pedis,butenafine
+tinea pedis,sulconazole
+tinea pedis,oxiconazole
+tinea pedis,clioquinol
+tinea pedis,haloprogin
+tinea pedis,luliconazole
+squamous cell carcinoma of the lung,gemcitabine
+squamous cell carcinoma of the lung,carboplatin
+squamous cell carcinoma of the lung,erlotinib
+squamous cell carcinoma of the lung,paclitaxel
+squamous cell carcinoma of the lung,nivolumab
+squamous cell carcinoma of the lung,pembrolizumab
+hookworm disease,imidacloprid
+postmenopausal osteoporosis,ibandronic acid
+postmenopausal osteoporosis,denosumab
+postmenopausal osteoporosis,teriparatide
+postmenopausal osteoporosis,zoledronic acid monohydrate
+tuberous sclerosis 1,everolimus
+tuberous sclerosis 1,vigabatrin
+"neuroblastoma, susceptibility to",doxorubicin
+"neuroblastoma, susceptibility to",irinotecan
+"neuroblastoma, susceptibility to",cisplatin
+"neuroblastoma, susceptibility to",carboplatin
+"neuroblastoma, susceptibility to",etoposide
+"neuroblastoma, susceptibility to",topotecan
+"neuroblastoma, susceptibility to",melphalan
+"neuroblastoma, susceptibility to",crizotinib
+"neuroblastoma, susceptibility to",dinutuximab
+gram-negative bacterial infection,mezlocillin
+gram-negative bacterial infection,cefditoren
+gram-negative bacterial infection,sulfamethizole
+gram-negative bacterial infection,sulfacytine
+gram-negative bacterial infection,chlorhexidine
+gram-negative bacterial infection,colistimethate
+apathy-aboulia syndrome,mesocarb
+primary mediastinal B-cell lymphoma,doxorubicin
+Nipah virus infection,ribavirin
+Nipah virus infection,remdesivir
+sleep-wake disorder,ibuprofen
+sleep-wake disorder,olanzapine
+sleep-wake disorder,diazepam
+sleep-wake disorder,zolpidem
+sleep-wake disorder,alprazolam
+sleep-wake disorder,clonazepam
+sleep-wake disorder,lorazepam
+sleep-wake disorder,quetiapine
+sleep-wake disorder,gabapentin
+sleep-wake disorder,trazodone
+sleep-wake disorder,triazolam
+sleep-wake disorder,risperidone
+sleep-wake disorder,eszopiclone
+sleep-wake disorder,temazepam
+sleep-wake disorder,ramelteon
+sleep-wake disorder,armodafinil
+sleep-wake disorder,mirtazapine
+sleep-wake disorder,sodium oxybate
+sleep-wake disorder,suvorexant
+eczematous skin disease,desonide
+malignant syndrome in Parkinson's disease,amantadine
+primary angiitis of the central nervous system,azathioprine
+primary angiitis of the central nervous system,(RS)-cyclophosphamide
+primary angiitis of the central nervous system,rituximab
+primary angiitis of the central nervous system,methylprednisolone
+Erythema nodosum leprosum,thalidomide
+beta blocker poisoning,sodium bicarbonate
+beta blocker poisoning,extracorporeal membrane oxygenation
+beta blocker poisoning,activated charcoal
+beta blocker poisoning,vasoconstrictor agents
+beta blocker poisoning,Intralipid
+beta blocker poisoning,whole bowel irrigation
+beta blocker poisoning,intravenous fluids
+beta blocker poisoning,glucagon (Q170617)
+beta blocker poisoning,insulin
+spinal leak of cerebrospinal fluid,lumbar epidural blood patch
+cranial leak of cerebrospinal fluid,lumbar puncture
+cranial leak of cerebrospinal fluid,bed rest
+cranial leak of cerebrospinal fluid,head elevation

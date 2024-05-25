@@ -1,0 +1,401 @@
+diseaseLabel,causeLabel
+alcoholic liver disease,alcohol consumption
+anticholinergic toxidrome,anticholinergic
+argyria,silver
+radiation burn,irradiation
+subarachnoid hemorrhage,aneurysm
+frontal lobe disorder,Lobotomy/Limbotomy [field]
+bovine virus diarrhea,Bovine viral diarrhea virus 1
+bovine virus diarrhea,Bovine viral diarrhea virus 2
+adenovirus infection,Adenoviridae
+ventricular fibrillation,myocardial infarction
+ventricular fibrillation,Brugada syndrome
+ventricular fibrillation,long QT syndrome
+ventricular fibrillation,cardiomyopathy
+bubonic plague,Yersinia pestis
+lactose intolerance,eating
+lactose intolerance,absence
+chikungunya,Chikungunya virus
+foodborne illness,food contaminant
+foodborne illness,food-borne transmission
+kuru,prion
+procrastination,attention deficit hyperactivity disorder
+procrastination,deficiency
+procrastination,psychological stress
+aspergilloma,Aspergillus fumigatus
+aspergilloma,Aspergillus
+African horse sickness,African horse sickness virus
+mercury poisoning,mercury
+decompression sickness,decompression
+intestinal parasite infection,intestinal parasite
+tetany,hypocalcaemia
+rabies,rabies virus
+meningitis,virus
+meningitis,Neisseria meningitidis
+meningitis,Streptococcus pneumoniae
+meningitis,Listeria monocytogenes
+meningitis,Haemophilus influenzae
+meningitis,cranial leak of cerebrospinal fluid
+diabetic foot,diabetes
+diabetic foot ulcer,peripheral neuropathy
+thyroid nodule,thyroid adenoma
+bone fracture,stress fracture
+bone fracture,injury
+snakebite,animal attack
+wart,human papillomavirus infection
+dyslexia,genetic disease
+migraine,unknown
+Ancylostoma duodenale ancylostomiasis,Necator americanus
+Ancylostoma duodenale ancylostomiasis,Ancylostoma duodenale
+brain abscess,bacteria
+liver cirrhosis,alcoholism
+liver cirrhosis,Wilson disease
+liver cirrhosis,hepatitis
+liver cirrhosis,autoimmune hepatitis
+liver cirrhosis,primary sclerosing cholangitis
+liver cirrhosis,HFE hereditary haemochromatosis
+liver cirrhosis,Indian childhood cirrhosis
+leptospirosis,Leptospira interrogans
+cluster headache,unknown
+scabies,Sarcoptes scabiei
+pulmonary emphysema,smoking
+jet lag,change
+encephalitis,infection
+encephalitis,autoimmunity
+chronic obstructive pulmonary disease,dust
+chronic obstructive pulmonary disease,smoking
+Lyme disease,Borrelia burgdorferi
+hordeolum,Staphylococcus aureus
+anogenital venereal wart,human papillomavirus infection
+delirium tremens,alcohol abuse
+Bing–Neel syndrome,Waldenström macroglobulinemia
+Bowenoid papulosis,human papillomavirus infection
+onychomycosis,Trichophyton rubrum
+onychomycosis,Microsporum canis
+onychomycosis,Epidermophyton floccosum
+onychomycosis,Trichophyton tonsurans
+onychomycosis,Trichophyton interdigitale
+Acanthamoeba keratitis,infection
+erythrasma,infection
+proctitis,Neisseria gonorrhoeae
+suicidal ideation,mental disorder
+polymyositis,autoimmune disease
+sacbrood,Sacbrood virus
+Caput medusae,liver cirrhosis
+hypothermia,cold weather
+hantavirus hemorrhagic fever,infection
+Crimean-Congo hemorrhagic fever,Crimean-Congo hemorrhagic fever virus
+Clutton's joints,congenital syphilis
+graft-versus-host disease,Graft vs Host Reaction
+xanthoma,hyperlipidemia
+xanthoma,macrophage-derived foam cell
+papillomatosis,infection
+stannosis,inhalation
+dust mite allergy,mite allergen
+Elsberg syndrome,Human herpesvirus 2
+tension headache,unknown
+enterohaemorrhagic Escherichia coli infection,infection
+enzootic bovine leukosis,infection
+erethism,mercury poisoning
+ovine and caprine brucellosis,Brucella melitensis
+gluten-related disorder,gluten
+gluten-related disorder,maida flour
+extrapyramidal symptoms,medication
+seizure,epilepsy
+Ladd's bands,congenital disorder
+Lentigo maligna melanoma,Lentigo maligna
+fasciolosis,Fasciola hepatica
+Nematode dermatitis,Ancylostoma caninum
+neonatal abstinence syndrome,drug-induced abnormality
+Osteolathyrism,ingestion
+cysticercosis cutis,Taenia solium
+dientamoebiasis,Dientamoeba fragilis
+GRACILE syndrome,point mutation
+geotrichosis,infection
+Grinker myelinopathy,carbon monoxide poisoning
+neonatal hypoxic-ischemic  encephalopathy,neonatal hypoxemia
+streptococcal infection,infection
+European foulbrood,Melissococcus plutonius
+Epstein-Barr virus-related Burkitt lymphoma,Epstein–Barr virus infection
+adult Burkitt lymphoma,Epstein–Barr virus infection
+Nipah virus infection,Nipah virus
+necrobiotic disorders,necrobiosis
+bites and stings,animal
+Birnaviridae infection,infection
+Circoviridae infection,infection
+chemically induced disorder,chemical substance
+cytophagaceae infection,infection
+conducted energy weapon injury,electroshock weapon
+carbamazepine allergy,carbamazepin
+abacavir allergy,abacavir
+phenobarbital allergy,phenobarbital
+amodiaquine allergy,amodiaquine
+aztreonam allergy,aztreonam
+meropenem allergy,meropenem
+tetrachlorophthalic anhydride allergic asthma,tetrachlorophthalic anhydride
+potassium dichromate allergic contact dermatitis,potassium dichromate
+alcuronium bromide allergy,alcuronium bromide
+acid anhydride respiratory allergy,organic acid anhydride
+bacterial sepsis,bacteremia
+urogenital trichomonas,Trichomonas vaginalis
+Trichomonas tenax trichomoniasis,Trichomonas tenax
+(+)ssRNA virus infectious disease,infection
+(-)ssRNA virus infectious disease,infection
+Secernentea infection,infection
+avian reticuloendotheliosis,infection
+nonvital tooth,pulpectomy
+X-linked acrogigantism due to Xq26 microduplication,partial duplication of the long arm of chromosome X
+Postictal  twilight state,epilepsy
+conductive hearing loss,middle ear anomaly
+herpes B,infection
+Hyper-IgD syndrome,mevalonic aciduria
+cardiomegaly,dilated cardiomyopathy
+cardiomegaly,hypertrophic cardiomyopathy
+bovine papular stomatitis,infection
+contrast-induced nephropathy,contrast agent
+Milker's nodule,infection
+meningeal carcinomatosis,metastatic malignant neoplasm
+opioid withdrawal syndrome,opioid withdrawal
+vibration white finger,hand arm vibrations
+Residual ovary syndrome,oophorectomy
+cytomegaloviral disease,human betaherpesvirus 5
+Acrodynia,mercury poisoning
+cerebral hypoxia,brain ischemia
+intestinal capillariasis,Capillaria philippinensis
+neurogenic bladder,neurological disorder
+strongyloidiasis,Strongyloides stercoralis
+clostridial necrotizing enteritis,infection
+tauopathy,Microtubule associated protein tau
+tauopathy,neurofibrillary tangle
+Transient epileptic amnesia,temporal lobe epilepsy
+pitted keratolysis,hyperhidrosis
+angiostrongyliasis,Angiostrongylus cantonensis
+Latrodectism,spider bite
+lead-induced colic,lead poisoning
+distomatosis,Trematoda
+fluoride toxicity,poisoning
+pigmentary glaucoma,pigment dispersion syndrome
+Toluene toxicity,toluene
+Toluene toxicity,intoxication
+loxoscelism,spider bite
+echovirus 9 infection,infection
+complication of radiotherapy,radiation therapy
+smut,Ustilaginomycotina
+parvovirus infectious disease,infection
+pulicosis,infestation
+spirochetal diseases,infection
+spirochetal diseases,Spirochaetales
+toxic effect of organic solvents,solvent exposure
+neuro-anemia syndrome,pernicious anemia
+Tuberculosis of the adrenal glands,infection
+fugu poisoning,Takifugu
+norovirus infection,Norwalk virus
+mercurial erythema,mercury poisoning
+myriapodiasis,Myriapoda
+spiruridiasis,infection
+keratitis related to vitamin deficiency,vitamin deficiency
+acanthocheilonemiasis,infection
+Argasidosis,Argasidae
+Argasosis,Argas
+Disease due to Armillifer,Armillifer
+Brugia malayi filariasis,Brugia malayi
+Brugia malayi filariasis,Brugia timori
+Gasping syndrome,benzyl alcohol
+substance-related disorder,psychotropic drug
+gedoelstiosis,infection
+vitamin D deficiency,rs2282679
+blister beetle dermatitis,Meloidae
+dermacentorosis,Dermacentor
+virtual reality sickness,virtual reality
+mycobacterium infectious disease,infection
+Monieziosis,infection
+Ornithodorosis,Ornithodoros
+Pseudamphistomum truncatum  infection,infection
+Rhabditida infectious disease,infection
+setariosis,infection
+Mauriac syndrome,type-1 diabetes
+Taeniasis saginata,Taenia saginata
+toxascariasis,Toxascaris leonina
+toxascariasis,infection
+trichostrongyloidosis,Ostertagia ostertagi
+trichostrongyloidosis,Haemonchus contortus
+trichostrongyloidosis,Trichostrongylus
+trichostrongyloidosis,Trichostrongylus vitrinus
+trichostrongyloidosis,Trichostrongylus colubriformis
+trichostrongyloidosis,Ostertagia circumcincta
+trichostrongyloidosis,Trichostrongylus axei
+trichostrongyloidosis,Trichostrongylus probolurus
+trichostrongyloidosis,Trichostrongylus skrjabini
+trichostrongyloidosis,Mecistocirrus digitatus
+Phormiosis,infection
+Wheat warehouse itch,infestation
+Helicobacter pylori infectious disease,infection
+cold injury,cold
+Chrysomya myiasis,infection
+chromosomal disease,pathology
+chromosomal disease,chromosome abnormality
+Hashimoto's encephalopathy,chronic thyroiditis
+AIDS-related lymphoma,HIV/AIDS
+airsickness,altitude
+algaemia,infection
+alphavirus infections,infection
+Alternariosis,infection
+arthritis mutilans,psoriatic arthritis
+blastocystosis,infection
+Bruns apraxia,frontal lobe disorder
+Candidal intertrigo,infection
+Carcinoma ex-pleomorphic adenoma,pleomorphic adenoma
+Pityrosporum folliculitis,Malassezia
+pseudovaginal perineoscrotal hypospadias,5-alpha-reductase deficiency
+psychoorganic syndrome,Alzheimer's disease
+psychoorganic syndrome,Pick disease
+psychoorganic syndrome,non-controlled substance abuse
+psychoorganic syndrome,brain tumor
+psychoorganic syndrome,cranial trauma
+psychoorganic syndrome,cerebral atherosclerosis
+Purple glove syndrome,phenytoin
+sex chromosome disorder,sex chromosome aberration
+glucocorticoid-induced osteoporosis,glucocorticoid
+steroid diabetes,administration of steroid
+transfusion hemosiderosis,blood transfusion
+Ureaplasma infection,infection
+ventilator-associated pneumonia,mechanical ventilation
+verruca plana,human papillomavirus infection
+Zirconium granuloma,zirconium exposure
+pollen allergy,pollen
+valproic acid antenatal infection,valproic acid
+allescheriosis,infection
+Skrljevo disease,infection
+spontaneous intracranial hypotension,spinal leak of cerebrospinal fluid
+autosomal recessive disease,autosomal recessive
+arizonosis,infection
+Q10913009,Candida albicans
+repressed memory,psychological repression
+hemorrhagic syndrome caused by Lonomia caterpillar,Lonomia
+Hexamitiasis,Hexamita
+bura bura disease,effects of nuclear explosions on human health
+sialodacryoadenitis,Rat coronavirus
+Newcastle disease,infection
+allergic asthma,respiratory allergy
+Poxviridae infectious disease,infection
+Tokak,starvation
+adiaspiromycosis,Emmonsia parva
+salmonella sepsis,infection
+Tik,concussion
+Hot tub folliculitis,infection
+auto-brewery syndrome,fermentation
+pneumocystis pneumonia,Pneumocystis jirovecii
+infective psychosis,infectious disease
+borreliosis,infection
+Aflatoxicosis,aflatoxins
+Androgen deprivation-induced senescence,androgen deprivation therapy
+Amalgam tattoo,adverse effect
+Wuchereria bancrofti filariasis,infection
+sennetsu fever,Neorickettsia sennetsu
+elephantiasis,filarial elephantiasis
+elephantiasis,elephantiasis nostras
+elephantiasis,podoconiosis
+passive smoking disease,passive smoking
+wooden chest,fentanyl toxicity
+Serratia infection,infection
+Trotter's syndrome,nasopharynx carcinoma
+Calcium channel blocker toxicity,drug overdose
+haemophilus meningitis,infection
+Hyperglycerolemia,glycerol kinase deficiency
+Transfusion associated circulatory overload,adverse effect
+soil-transmitted helminthiasis,geohelminth
+Chapare hemorrhagic fever,Chapare virus
+Vitreous touch syndrome,adverse effect
+lujo hemorrhagic fever,infection
+acanthocephaliasis,infection
+parasitic Ichthyosporea infectious disease,infection
+pseudomembranous conjunctivitis,Corynebacterium diphtheriae
+kernicterus due to isoimmunization,neonatal alloimmune disease
+tinea unguium,infection
+inclusion conjunctivitis,Chlamydia trachomatis
+urinary schistosomiasis,Schistosoma haematobium
+West Nile encephalitis,infection
+pancreatic cholera,VIPoma
+mucocutaneous leishmaniasis,Leishmania braziliensis
+Streptocerciasis,Mansonella streptocerca
+Pneumocystis infectious disease,infection
+Reoviridae infectious disease,Reoviridae
+Flaviviridae infectious disease,infection
+El Tor cholera,El Tor
+Ciliophora infectious disease,infection
+Acinetobacter infectious disease,infection
+Mycoplasmatales infectious disease,infection
+Torovirus infectious disease,infection
+border disease,infection
+Roseolovirus infectious disease,infection
+liver fluke-related cholangiocarcinoma,Opisthorchis viverrini
+gram-negative bacterial infection,infection
+Irvine–Gass syndrome,cataract surgery
+tubo-ovarian abscess,pelvic inflammatory diseases
+Q20018773,terrorism
+aphantasia,http://www.wikidata.org/.well-known/genid/8e6c68e210b6d0b0795b7ab6dc58391c
+chromosomal duplication syndrome,gene duplication
+vinyl chloride exposure,vinyl chloride
+lewisite shock,lewisite exposure
+radiation sickness,ionizing radiation
+Acute HME syndrome,Cassia occidentalis
+gonococcal infectious diseases,infection
+sclerosing encapsulating peritonitis,peritoneal dialysis
+Christmas Eye,Orthoperus
+abdominal baldness,liver cirrhosis
+neonatal hypoxemia,asphyxia neonatorum
+vitamin B12 deficiency anemia,vitamin B12 deficiency
+neuroleptic extrapyramidal disorder,antipsychotics
+apathy-aboulia syndrome,schizophrenia
+apathy-aboulia syndrome,brain damage
+Soemmering ring,adverse effect
+caffeinism,intoxication
+cerebrospinal fluid leak,blunt trauma
+cerebrospinal fluid leak,weakness of the spinal meninges
+Cor bovinum,Syphilitic aortitis
+Couvelaire uterus,placental abruption
+Craniotabes,rickets
+immune-mediated necrotizing myopathy,statin
+immune-mediated necrotizing myopathy,unknown
+Creeping myiasis,infection
+insufficiency fracture,osteoporosis
+insufficiency fracture,osteomalacia
+Bocavirus infection,human bocavirus
+endogenous intoxication,inherited metabolic disorder
+Gyrodactylus salaris infection,Gyrodactylus salaris
+entamoebiasis,Entamoeba
+Helicobacter infection,infection
+steroid myopathy,glucocorticoid
+acute respiratory tract infection,fungus
+acute respiratory tract infection,virus
+acute respiratory tract infection,bacteria
+smoking-related lung disease,smoking
+Pasteurellaceae infections,Pasteurellaceae
+long COVID,COVID-19
+Emmonsiosis,Emergomyces
+Chlorellosis,Chlorella
+Ghost cell glaucoma,vitreous hemorrhage
+atoxoplasmosis,Atoxoplasma
+purulent meningitis,Escherichia coli
+purulent meningitis,Neisseria meningitidis
+purulent meningitis,Staphylococcus
+purulent meningitis,Streptococcus pneumoniae
+purulent meningitis,Listeria monocytogenes
+purulent meningitis,Haemophilus influenzae
+Pneumonia caused by Pseudomonas aeruginosa infection,Pseudomonas aeruginosa
+Pasteurella multocida infection,Pasteurella multocida
+Sesame allergy,sesame seed
+beta blocker poisoning,beta blocker
+General paresis of the insane,syphilis
+General paresis of the insane,meningoencephalitis
+spinal leak of cerebrospinal fluid,blunt trauma
+spinal leak of cerebrospinal fluid,weakness of the spinal meninges
+cranial leak of cerebrospinal fluid,tuberculosis
+cranial leak of cerebrospinal fluid,hydrocephalus
+cranial leak of cerebrospinal fluid,blunt trauma
+cranial leak of cerebrospinal fluid,Crouzon syndrone
+cranial leak of cerebrospinal fluid,spina bifida
+cranial leak of cerebrospinal fluid,osteomyelitis
+cranial leak of cerebrospinal fluid,neoplasm
+cranial leak of cerebrospinal fluid,osteopetrosis
+cranial leak of cerebrospinal fluid,cranial trauma

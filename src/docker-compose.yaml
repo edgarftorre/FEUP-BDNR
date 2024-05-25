@@ -1,0 +1,37 @@
+version: '3'
+services:
+  arangodb:
+    image: arangodb:latest
+    environment:
+      - ARANGO_NO_AUTH=1
+      - ARANGO_ROOT_PASSWORD=   # Leave the root password empty
+      - ARANGODB_HOST=arangodb # Update the host here
+    ports:
+      - 8529:8529
+
+  populate:
+    build:
+      context: ./backend
+    depends_on:
+      - arangodb
+    command: node populate.js
+    environment:
+      - ARANGODB_HOST=arangodb
+
+  backend:
+    build:
+      context: ./backend
+    command: node api.js
+    ports: 
+      - 8000:8000
+    depends_on:
+      - arangodb
+      - populate
+    environment:
+      - ARANGODB_HOST=arangodb
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - 3000:3000
