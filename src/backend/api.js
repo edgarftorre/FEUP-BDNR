@@ -219,13 +219,13 @@ app.post('/api/patient/', async (req, res) => {
         const data = req.body        
         const query = arangojs.aql`
         // Insert patient document into patients collection
-INSERT {
-  "name": ${data.name},
-  "age": ${data.age},
-  "weight": ${data.weight},
-  "height": ${data.height}
-}
-INTO patients
+        INSERT {
+        "name": ${data.name},
+        "age": ${data.age},
+        "weight": ${data.weight},
+        "height": ${data.height}
+        }
+        INTO patients
         `;
         
         const cursor = await db.query(query);
