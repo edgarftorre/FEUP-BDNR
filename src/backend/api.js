@@ -382,9 +382,7 @@ app.get('/api/hospital/:key/statistics', async (req, res) => {
         )
     
         LET uniqueTreatments = UNIQUE(treatmentCount)
-
-
-    FOR hospital3 IN hospitals
+        FOR hospital3 IN hospitals
         FILTER hospital3._key == ${req.params.key}
         LET symptomCount = (
             FOR patient3 IN OUTBOUND hospital3 HasPatient
